@@ -92,26 +92,26 @@ Further details about OAI2LOD have been published in the following papers:
 
 - [Interweaving OAI-PMH data sources with the linked data cloud](http://eprints.cs.univie.ac.at/73/)
 
-	@article{haslhofer2010interweaving,
-	  title={Interweaving OAI-PMH data sources with the linked data cloud},
-	  author={Haslhofer, B. and Schandl, B.},
-	  journal={International Journal of Metadata, Semantics and Ontologies},
-	  volume={5},
-	  number={1},
-	  pages={17--31},
-	  year={2010},
-	  publisher={Inderscience}
-	}
+		@article{haslhofer2010interweaving,
+		  title={Interweaving OAI-PMH data sources with the linked data cloud},
+		  author={Haslhofer, B. and Schandl, B.},
+		  journal={International Journal of Metadata, Semantics and Ontologies},
+		  volume={5},
+		  number={1},
+		  pages={17--31},
+		  year={2010},
+		  publisher={Inderscience}
+		}
 
 
 - [The OAI2LOD Server: Exposing OAI-PMH metadata as linked data](http://www.ra.ethz.ch/cdstore/www2008/events.linkeddata.org/ldow2008/papers/03-haslhofer-schandl-oai2lod-server.pdf)
 
-	@inproceedings{haslhofer2008oai2lod,
-	  title={The OAI2LOD Server: Exposing OAI-PMH metadata as linked data},
-	  author={Haslhofer, B. and Schandl, B.},
-	  booktitle={1st International Workshop on Linked Data on the Web (LDOW2008), co-located with WWW 2008},
-	  year={2008}
-	}
+		@inproceedings{haslhofer2008oai2lod,
+		  title={The OAI2LOD Server: Exposing OAI-PMH metadata as linked data},
+		  author={Haslhofer, B. and Schandl, B.},
+		  booktitle={1st International Workshop on Linked Data on the Web (LDOW2008), co-located with WWW 2008},
+		  year={2008}
+		}
 
 
 
