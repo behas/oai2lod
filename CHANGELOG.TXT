@@ -1,7 +1,7 @@
 2008/11/17
-    RELEASE 0.2.1
+    	RELEASE 0.2.1
     
-    - upgrade to current D2R Server code (v. 0.4.1-dev)
+    	- upgrade to current D2R Server code (v. 0.4.1-dev)
 	- stylesheet for MODS support (./etc/xsl/oai_mods2rdf_xml.xsl) - currently a small subset for testing purposed; tested only with MODS metadata provided by LOC OAI-PMH (see samples)
 
 2008/04/18
