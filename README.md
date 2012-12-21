@@ -86,6 +86,35 @@ The third part defines a SPARQL endpoint this OAI2LOD instance should be linked 
 	
 Link rules tell the OAI2LOD Server the conditions for linking a resource in the OAI2LOD data set with a resource in the remote data set. For each data set one must define source/target types as well as source/target properties. The linking algorithm then compares all values X, which are objects of a certain source property in the source data set, with all values Y, which are objects of a certain target property in the target data set. If they are similar, a link using a given property is created between the resources. For each linking rule, the user can define a minimum similarity threshold (between 0 and 1) and the similarity algorithm to be used. One can choose any algorithm provided by the [SimMetrics library](http://sourceforge.net/projects/simmetrics/). Here is the [JavaDoc](http://www.dcs.shef.ac.uk/~sam/simmetrics/index.html).
 	
+## Publications
+
+Further details about OAI2LOD have been published in the following papers:
+
+- [Interweaving OAI-PMH data sources with the linked data cloud](http://eprints.cs.univie.ac.at/73/)
+
+	@article{haslhofer2010interweaving,
+	  title={Interweaving OAI-PMH data sources with the linked data cloud},
+	  author={Haslhofer, B. and Schandl, B.},
+	  journal={International Journal of Metadata, Semantics and Ontologies},
+	  volume={5},
+	  number={1},
+	  pages={17--31},
+	  year={2010},
+	  publisher={Inderscience}
+	}
+
+
+- [The OAI2LOD Server: Exposing OAI-PMH metadata as linked data](http://www.ra.ethz.ch/cdstore/www2008/events.linkeddata.org/ldow2008/papers/03-haslhofer-schandl-oai2lod-server.pdf)
+
+	@inproceedings{haslhofer2008oai2lod,
+	  title={The OAI2LOD Server: Exposing OAI-PMH metadata as linked data},
+	  author={Haslhofer, B. and Schandl, B.},
+	  booktitle={1st International Workshop on Linked Data on the Web (LDOW2008), co-located with WWW 2008},
+	  year={2008}
+	}
+
+
+
 
 ## Open Issues
 
