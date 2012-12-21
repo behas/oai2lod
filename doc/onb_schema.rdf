@@ -1,0 +1,59 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns="http://www.mediaspaces.info/schemes/onb#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdfs:Class rdf:about="http://www.mediaspaces.info/schemes/onb#Image"/>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#origin">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#title">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#classification">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#contributor">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#mimeType">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#topic">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#info">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#rights">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#date">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#authorfirstname">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#authorlastname">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#url">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/onb#publisher">
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/schemes/onb#Image"/>
+  </rdf:Property>
+</rdf:RDF>

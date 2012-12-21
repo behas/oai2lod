@@ -1,0 +1,4310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2007-07-24T11:55:50Z</responseDate>
+<request verb="ListRecords" metadataPrefix="oai_dc">http://www.infomotions.com/gallery/oai/index.pl</request>
+
+<ListRecords>
+<record>
+<header>
+<identifier>oai:images:DSCN7318</identifier>
+<datestamp>2006-08-26T13:41:29Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7318.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Old Mission Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7337</identifier>
+<datestamp>2006-08-26T13:41:31Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7337.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cherry orchard</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7272</identifier>
+<datestamp>2006-08-26T13:41:26Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7272.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mackinac Island</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7299</identifier>
+<datestamp>2006-08-26T13:41:27Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7299.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mackinac Bridge</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7254</identifier>
+<datestamp>2006-08-26T13:41:24Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7254.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Big Twin Lake</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7274</identifier>
+<datestamp>2006-08-26T13:41:26Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7274.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Arch Rock</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7345</identifier>
+<datestamp>2006-08-26T13:41:32Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7345.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Fishtown Fish</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7350</identifier>
+<datestamp>2006-08-26T13:41:32Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7350.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Big Twin Lake</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7334</identifier>
+<datestamp>2006-08-26T13:41:30Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7334.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cherries</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7245</identifier>
+<datestamp>2006-08-26T13:41:23Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7245.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>painted fish</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7256</identifier>
+<datestamp>2006-08-26T13:41:25Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7256.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>hay bale</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7308</identifier>
+<datestamp>2006-08-26T13:41:28Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7308.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>patchwork barn</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7316</identifier>
+<datestamp>2006-08-26T13:41:29Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7316.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>pioneer home</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7243</identifier>
+<datestamp>2006-08-26T13:41:23Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7243.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>painted fish</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7344</identifier>
+<datestamp>2006-08-26T13:41:31Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7344.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fish net</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7255</identifier>
+<datestamp>2006-08-26T13:41:24Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7255.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>green field</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7309</identifier>
+<datestamp>2006-08-26T13:41:29Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7309.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>purple field</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7307</identifier>
+<datestamp>2006-08-26T13:41:28Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7307.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>llamas</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7322</identifier>
+<datestamp>2006-08-26T13:41:30Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7322.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Old Mission Point</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7260</identifier>
+<datestamp>2006-08-26T13:41:25Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7260.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mackinac Bridge</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7326</identifier>
+<datestamp>2006-08-26T13:41:30Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7326.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>vinyard</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7264</identifier>
+<datestamp>2006-08-26T13:41:25Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7264.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>East Moran Bay</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7239</identifier>
+<datestamp>2006-08-26T13:41:23Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7239.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Dairy Queen Treat</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7321</identifier>
+<datestamp>2006-08-26T13:41:30Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7321.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>stone hearts</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7348</identifier>
+<datestamp>2006-08-26T13:41:32Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7348.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Fishtown, Michigan</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7295</identifier>
+<datestamp>2006-08-26T13:41:27Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7295.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>flower bed</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7343</identifier>
+<datestamp>2006-08-26T13:41:31Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7343.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fish net</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7250</identifier>
+<datestamp>2006-08-26T13:41:24Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7250.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Big Twin Lake</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7247</identifier>
+<datestamp>2006-08-26T13:41:24Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7247.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>green field</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7315</identifier>
+<datestamp>2006-08-26T13:41:29Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7315.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>farm wagon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7342</identifier>
+<datestamp>2006-08-26T13:41:31Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7342.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Fishtown, Michigan</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7305</identifier>
+<datestamp>2006-08-26T13:41:28Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7305.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Queen Ann's Lace</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7330</identifier>
+<datestamp>2006-08-26T13:41:30Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7330.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cherry orchard</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7292</identifier>
+<datestamp>2006-08-26T13:41:27Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7292.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7258</identifier>
+<datestamp>2006-08-26T13:41:25Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7258.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>straw</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7246</identifier>
+<datestamp>2006-08-26T13:41:23Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7246.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>army tank</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7279</identifier>
+<datestamp>2006-08-26T13:41:26Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7279.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mackinac Island</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7304</identifier>
+<datestamp>2006-08-26T13:41:28Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7304.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hillside Farm</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7296</identifier>
+<datestamp>2006-08-26T13:41:27Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7296.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mackinac Island Public Library</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7289</identifier>
+<datestamp>2006-08-26T13:41:26Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7289.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mackinac Bridge</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7278</identifier>
+<datestamp>2006-08-26T13:41:26Z</datestamp>
+<setSpec>northern-michigan</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7278.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lake Huron at Arch Rock, Mackinac Island</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2744-54</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2744.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Gilligan's Island boat</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2624-7</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2624.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2854-77</identifier>
+<datestamp>2004-12-25T16:55:38Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2854.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>waves at the beach</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2577-1</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2577.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Bodie Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2648-11</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2648.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>wooden parrot</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2651-13</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2651.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>blooming yucca</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2685-27</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2685.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>inside St. Thomas church, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2690-31</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2690.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fat cat</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2672-22</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2672.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>giant shot gun shell</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2721-47</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2721.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sad school bus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2669-20</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2669.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>farm house, Engelhard, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2773-60</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2773.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>giant chair</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2634-9</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2634.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>seagull on the pier</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2747-56</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2747.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fish sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2654-15</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2654.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2731-50</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2731.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>mermaid mailbox</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2711-43</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2711.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Van Der Veer House, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2788-65</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2788.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hatteras Lighthouse homes</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2695-34</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2695.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Bath Creek water</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2776-62</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2776.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Queen Elizabeth II, Manteo, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2701-36</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2701.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Glebe House, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2645-10</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2645.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>palm tree</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2691-32</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2691.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Blackbeard's House, but not really</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2754-58</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2754.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sea corral</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2783-64</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2783.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hatteras Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2794-67</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2794.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>beach homes</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2675-23</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2675.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>farm house with lilies</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2746-55</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2746.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>irrigation ditch along US Highway 264</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2873-79</identifier>
+<datestamp>2004-12-25T16:55:38Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2873.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>crab candles</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2705-39</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2705.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>viney sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2729-49</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2729.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>green field, grey sky</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2717-44</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2717.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>pastor at St. Thomas Church, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2657-16</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2657.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Oregon Inlet, North Carolina</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2831-73</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2831.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>inside Currituck Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2580-2</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2580.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>inside Bodie Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2710-42</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2710.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Van Der Veer House, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2802-68</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2802.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>seagulls</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2682-25</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2682.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Belhaven City Hall</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2683-26</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2683.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>lunch</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2704-38</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2704.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>oldest NC public library</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2743-53</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2743.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>shrimp boat named Scooter</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2861-78</identifier>
+<datestamp>2004-12-25T16:55:38Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2861.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>seagull</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2688-30</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2688.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>church</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2850-75</identifier>
+<datestamp>2004-12-25T16:55:38Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2850.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>beach</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2600-4</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2600.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>shark</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2780-63</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2780.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Dare County Courthouse, Manteo, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2697-35</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2697.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>pine cones</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2761-59</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2761.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>poisonous fish</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2750-57</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2750.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>turtles</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2702-37</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2702.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Blackbeard</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2694-33</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2694.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Bonner House, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2808-69</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2808.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Little Mermaid beach house</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2774-61</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2774.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hydrangea</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2584-3</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2584.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Bodie Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2741-52</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2741.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>shrimp boats</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2686-28</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2686.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>St. Thomas Church, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2679-24</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2679.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>passion flower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2607-6</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2607.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fisher boy</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2708-41</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2708.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Palmer House, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2632-8</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2632.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Neptune</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2852-76</identifier>
+<datestamp>2004-12-25T16:55:38Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2852.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>waves at the beach</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2671-21</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2671.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>irrigation ditch</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2719-45</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2719.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>St. Thomas Church, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2667-19</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2667.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Octagon House, Engelhard, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2738-51</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2738.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>bean harvesting tractor</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2720-46</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2720.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>overgrown garage</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2707-40</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2707.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sun tile</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2811-70</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2811.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Currituck Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2791-66</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2791.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>typical beach house</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2687-29</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2687.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>St. Thomas Church, Bath, NC</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2723-48</identifier>
+<datestamp>2004-12-25T16:55:36Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2723.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Atlantic Intercostal Waterway</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2828-72</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2828.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>view from atop Currituck Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2815-71</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2815.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Currituck Lighthouse</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2663-18</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2663.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>dead boat</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2659-17</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2659.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Oregon Inlet life saving station</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2653-14</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2653.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Oregon Inlet life saving station</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2838-74</identifier>
+<datestamp>2004-12-25T16:55:37Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2838.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>pink fuzzy flowers</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2602-5</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2602.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sharks</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2649-12</identifier>
+<datestamp>2004-12-25T16:55:35Z</datestamp>
+<setSpec>obx</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/obx/Images/DSCN2649.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>daisies</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5905</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5905.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fire red lily</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5770</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5770.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>white flowers</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5772</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5772.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>bouy sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5729</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5729.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Rock Run</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5708</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5708.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>red berries</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5906</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5906.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>turtle</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5755</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5755.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>red cactus flower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5783</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5783.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>tobacco foundation</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5719</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5719.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>bee balm</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5902</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5902.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5711</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5711.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>orange day lily</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5716</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5716.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>brown-eyed Susans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5765</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5765.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sky</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5773</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5773.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cows</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5761</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5761.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5786</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5786.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>many venuses</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5715</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5715.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>another tiny white flower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5739</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5739.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Rock Run</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5706</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5706.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lycoming Creek</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5725</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5725.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>grassy road</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5722</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5722.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>dirt road</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5916</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5916.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>daisies</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5908</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5908.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mushroom Manor</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5915</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5915.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>daisies</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5778</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5778.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>garden</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5712</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5712.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>tiny white flowers</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5758</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5758.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>farm house</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5784</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5784.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Venus of Lancaster</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5714</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5714.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>red combs</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5917</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5917.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>daisy</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5776</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5776.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Queen Ann's Lace</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5705</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5705.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lycoming Creek</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5707</identifier>
+<datestamp>2005-07-30T21:21:01Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5707.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lycoming Creek</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5728</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5728.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Rock Run</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5774</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5774.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>mailbox</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5766</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5766.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>farm house</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5771</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5771.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>yellow day lilies</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5741</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5741.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Rock Run</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5723</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5723.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>tree guarding a rock</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5753</identifier>
+<datestamp>2005-07-30T21:21:02Z</datestamp>
+<setSpec>marsh-hill</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5753.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Rock Run</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010013-7</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010013.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>lunch</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010015-9</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010015.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010009-5</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010009.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Houston City Hall</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010010-6</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010010.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010025-13</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010025.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>art shot</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010020-10</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010020.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>pipes in a mall</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010033-15</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010033.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010027-14</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010027.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sky scrapers</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010008-4</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010008.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Houston Public Library</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4020046-19</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4020046.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>spiky flower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4020048-20</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4020048.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>snap dragon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4020040-17</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4020040.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>At the barbeque</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4020035-16</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4020035.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>warm-up band</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010006-3</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010006.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>venus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010021-11</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010021.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>water fall</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010024-12</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010024.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sky scraper</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4020049-21</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4020049.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Goode's Barbeque</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4020045-18</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4020045.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>blue bonnet flower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010014-8</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010014.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>building</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4020050-22</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4020050.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Rice University</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010002-1</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010002.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>old public library</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:P4010005-2</identifier>
+<datestamp>2004-12-25T18:46:44Z</datestamp>
+<setSpec>houston</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/houston/Images/P4010005.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>ceiling</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5573</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5573.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait with windmills</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5524</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5524.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5515</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5515.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5550</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5550.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mt. Diablo</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5486</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5486.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5507</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5507.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5483</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5483.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5584</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5584.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>windmills</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5503</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5503.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5562</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5562.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>windmills</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5498</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5498.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5521</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5521.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5479</identifier>
+<datestamp>2005-06-12T13:23:41Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5479.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5476</identifier>
+<datestamp>2005-06-12T13:23:41Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5476.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>hay bales</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5523</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5523.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5529</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5529.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Morgan Territory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5511</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5511.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>lone tree</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5481</identifier>
+<datestamp>2005-06-12T13:23:42Z</datestamp>
+<setSpec>morgan-territory</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5481.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>rolling hills</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<resumptionToken cursor="0" completeListSize="1837">!!!oai_dc!200</resumptionToken>
+</ListRecords>
+
+</OAI-PMH>

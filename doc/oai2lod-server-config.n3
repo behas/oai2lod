@@ -1,0 +1,135 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oai2lod: <http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#> .
+
+<> a owl:Ontology;
+    rdfs:label "OAI2LOD Server configuration vocabulary"@en;
+    rdfs:comment "This vocabulary defines RDF terms used in configuration files for OAI2LOD Server, a software application that publishes OAI Endpoints on the Semantic Web."@en;
+    foaf:page <http://www.mediaspaces.info/index.php?dir=tools&page=oai2lod>;
+    .
+<http://www.mediaspaces.info/index.php?dir=tools&page=oai2lod>
+    rdfs:label "OAI2LOD Server homepage and documentation"@en;
+    .
+oai2lod:Server a rdfs:Class;
+    rdfs:label "Server"@en;
+    rdfs:comment "A configuration for a OAI2LOD Server installation."@en;
+    rdfs:isDefinedBy <>;
+    .
+oai2lod:baseURI a rdf:Property;
+    rdfs:label "server base URI"@en;
+    rdfs:comment "Base URI for a OAI2LOD Server installation; the URI of the running server's start page."@en;
+    rdfs:domain oai2lod:Server;
+    rdfs:isDefinedBy <>;
+    .
+oai2lod:port a rdf:Property;
+    rdfs:label "server port"@en;
+    rdfs:comment "The TCP port on which a OAI2LOD Server installation listens."@en;
+    rdfs:domain oai2lod:Server;
+    rdfs:isDefinedBy <>;
+    .
+oai2lod:publishes a rdf:Property;
+    rdfs:label "publishes"@en;
+    rdfs:comment "The OAI-PMH endpoint that is published by a D2R Server installation."@en;
+    rdfs:domain oai2lod:Server;
+    rdfs:range oai2lod:OAIServer;
+    rdfs:isDefinedBy <>;
+    .
+oai2lod:linkedWith a rdf:Property;
+	rdfs:label "linked with"@en;
+	rdfs:comment "Another SPARQL endpoint to which this OAI2LOD Server installation is linked with";
+	rdfs:domain oai2lod:Server;
+	rdfs:range oai2lod:LinkedSPARQLEndpoint;
+	.
+
+
+oai2lod:OAIServer a rdfs:Class;
+	rdfs:label "OAIServer"@en;
+	rdfs:comment "A configuration for an OAI-PMH Harvesting Job."@en;
+	rdfs:isDefinedBy <>;
+	.
+oai2lod:serverURL a rdf:Property;
+	rdfs:label "serverURL"@en;
+	rdfs:comment "The URL endpoint of the OAI-PMH Server."@en;
+	rdfs:domain oai2lod:OAIServer;
+	.
+oai2lod:metadataPrefix a rdf:Property;
+	rdfs:label "metadataPrefix"@en;
+	rdfs:comment "The metadata prefix denoting the format of the records to be harvested."@en;
+	rdfs:domain oai2lod:OAIServer;
+	.
+oai2lod:styleSheet a rdf:Property;
+	rdfs:label "styleSheet"@en;
+	rdfs:comment "The location (path) of the stylesheet to be used for transforming XML records into RDF/XML."@en;
+	rdfs:domain oai2lod:OAIServer;
+	.
+oai2lod:maxRecords a rdf:Property;
+	rdfs:label "maxRecords"@en;
+	rdfs:comment "The maximum number of records to be harvested from an OAI-PMH Server."@en;
+	rdfs:domain oai2lod:OAIServer;
+	.
+	
+
+oai2lod:LinkedSPARQLEndpoint a rdfs:Class;
+	rdfs:label "Linked SPARQL Endpoint"@en;
+	rdfs:comment "Specification of a SPARQL endpoint to be linked"@en;
+	.
+oai2lod:sparqlService a rdf:Property;
+	rdfs:label "sparqlService"@en;
+	rdfs:comment "The endpoint (URI) of the SPARQL service to be linked"@en;
+	rdfs:domain oai2lod:LinkedSPARQLEndpoint;
+	.
+oai2lod:maxResults a rdf:Property;
+	rdfs:label "maxResults"@en;
+	rdfs:comment "The maximum number of results when sending a SPARQL query (used for LIMIT clause)"@en;
+	rdfs:domain oai2lod:LinkedSPARQLEndpoint;
+	.
+oai2lod:linkingRule a rdf:Property;
+	rdfs:label "linkingRule"@en;
+	rdfs:comment "A rule specifying the linking conditions"@en;
+	rdfs:domain oai2lod:LinkedSPARQLEndpoint;
+	rdfs:range oai2lod:LinkingRule;
+	.
+	
+
+oai2lod:LinkingRule a rdfs:Class;
+	rdfs:label "Linking Rule"@en;
+	rdfs:comment "Defines a condition for linking data sets"@en;
+	.
+oai2lod:sourceType a rdf:Property;
+	rdfs:label "source Type"@en;
+	rdfs:comment "The rdf:type of an instance in the OAI2LOD Server data set"@en;
+	rdfs:domain oai2lod:LinkingRule;
+	.
+oai2lod:sourceProperty a rdf:Property;
+	rdfs:label "source property"@en;
+	rdfs:comment "The property to be considered in an instance in the OAI2LOD Server data set"@en;
+	rdfs:domain oai2lod:LinkingRule;
+	.
+oai2lod:targetType a rdf:Property;
+	rdfs:label "target Type"@en;
+	rdfs:comment "The rdf:type of an instance in the target data set"@en;
+	rdfs:domain oai2lod:LinkingRule;
+	.
+oai2lod:targetProperty a rdf:Property;
+	rdfs:label "target property"@en;
+	rdfs:comment "The property to be considered in an instance in the target data set"@en;
+	rdfs:domain oai2lod:LinkingRule;
+	.
+oai2lod:linkingProperty a rdf:Property;
+	rdfs:label "linking Property"@en;
+	rdfs:comment "the property for linking two matching resources"@en;
+	rdfs:domain oai2lod:LinkingRule;
+	.
+oai2lod:similarityMetrics a rdf:Property;
+	rdfs:label "similarity metrics"@en;
+	rdfs:comment "The Java class which implements the algorithm used for calculating the similarity metrics (e.g., Levensthein)."@en;
+	rdfs:domain oai2lod:LinkingRule;
+	.	
+oai2lod:minSimilarity a rdf:Property;
+	rdfs:label "minimum Similarity"@en;
+	rdfs:comment "The minimum similarity two strings must have for being considered equal."@en;
+	rdfs:domain oai2lod:LinkingRule;
+	.	
+	

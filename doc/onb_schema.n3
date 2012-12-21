@@ -1,0 +1,62 @@
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#>.
+
+@prefix onb:	<http://www.mediaspaces.info/schemes/onb#>.
+@prefix :	<http://www.mediaspaces.info/schemes/onb#>.
+
+
+onb:Image a rdfs:Class;
+	.
+onb:authorfirstname a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:authorlastname a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:classification a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:contributor a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:date a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:info a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:mimeType a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:origin a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:publisher a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:rights a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:title a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:topic a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.
+onb:url a rdf:Property;
+	rdfs:domain onb:Image;
+	rdfs:range xsd:string;
+	.

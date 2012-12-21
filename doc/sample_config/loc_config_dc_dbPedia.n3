@@ -1,0 +1,36 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oai2lod: <http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#> .
+
+<> a oai2lod:Server;
+	rdfs:label "Example OAI2LOD Server exposing LOC metadata";
+	oai2lod:port 2020;
+	oai2lod:baseURI <http://localhost:2020/>;
+	oai2lod:publishes <oai1>;
+	oai2lod:linkedWith <link1>;
+	.
+	
+<oai1> a oai2lod:OAIServer;
+	oai2lod:serverURL <http://memory.loc.gov/cgi-bin/oai2_0>;
+	oai2lod:metadataPrefix "oai_dc";
+	oai2lod:styleSheet "xsl/oai_dc2rdf_xml.xsl";
+	oai2lod:maxRecords 100;
+	.	
+
+<link1> a oai2lod:LinkedSPARQLEndpoint;
+	oai2lod:sparqlService <http://DBpedia.org/sparql>;
+	oai2lod:maxResults 5000;
+	oai2lod:linkingRule <lrule1>;
+	.
+
+<lrule1> a oai2lod:LinkingRule;
+	oai2lod:sourceType <http://www.mediaspaces.info/vocab/oai-pmh.rdf#Item>;
+	oai2lod:sourceProperty <http://purl.org/dc/elements/1.1/coverage>;
+	oai2lod:targetType <http://dbpedia.org/class/yago/StatesOfTheUnitedStates>;
+	oai2lod:targetProperty <http://www.w3.org/2000/01/rdf-schema#label>;
+	oai2lod:linkingProperty <http://www.w3.org/2000/01/rdf-schema#seeAlso>;
+	oai2lod:similarityMetrics "uk.ac.shef.wit.simmetrics.similaritymetrics.Levenshtein";
+	oai2lod:minSimilarity 0.89;
+	.

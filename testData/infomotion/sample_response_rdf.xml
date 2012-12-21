@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:oai_lod="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:oai="http://www.openarchives.org/OAI/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="http://mediaspaces.org/">
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7318">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Old Mission Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7318.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7337">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>cherry orchard</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7337.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7272">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Mackinac Island</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7272.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7299">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Mackinac Bridge</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7299.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7254">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Big Twin Lake</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7254.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7274">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Arch Rock</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7274.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7345">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Fishtown Fish</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7345.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7350">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Big Twin Lake</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7350.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7334">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>cherries</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7334.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7245">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>painted fish</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7245.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7256">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>hay bale</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7256.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7308">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>patchwork barn</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7308.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7316">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>pioneer home</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7316.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7243">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>painted fish</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7243.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7344">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>fish net</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7344.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7255">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>green field</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7255.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7309">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>purple field</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7309.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7307">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>llamas</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7307.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7322">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Old Mission Point</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7322.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7260">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Mackinac Bridge</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7260.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7326">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>vinyard</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7326.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7264">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>East Moran Bay</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7264.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7239">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Dairy Queen Treat</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7239.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7321">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>stone hearts</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7321.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7348">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Fishtown, Michigan</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7348.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7295">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>flower bed</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7295.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7343">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>fish net</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7343.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7250">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Big Twin Lake</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7250.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7247">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>green field</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7247.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7315">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>farm wagon</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7315.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7342">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Fishtown, Michigan</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7342.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7305">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Queen Ann's Lace</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7305.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7330">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>cherry orchard</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7330.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7292">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>self-portrait</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7292.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7258">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>straw</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7258.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7246">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>army tank</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7246.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7279">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Mackinac Island</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7279.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7304">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Hillside Farm</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7304.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7296">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Mackinac Island Public Library</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7296.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7289">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Mackinac Bridge</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7289.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN7278">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>northern-michigan</oai_lod:set>
+<dc:title>Lake Huron at Arch Rock, Mackinac Island</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/northern-michigan/Images/DSCN7278.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2744-54">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Gilligan's Island boat</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2744.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2624-7">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>cactus</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2624.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2854-77">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>waves at the beach</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2854.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2577-1">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Bodie Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2577.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2648-11">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>wooden parrot</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2648.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2651-13">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>blooming yucca</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2651.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2685-27">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>inside St. Thomas church, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2685.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2690-31">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>fat cat</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2690.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2672-22">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>giant shot gun shell</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2672.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2721-47">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>sad school bus</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2721.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2669-20">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>farm house, Engelhard, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2669.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2773-60">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>giant chair</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2773.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2634-9">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>seagull on the pier</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2634.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2747-56">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>fish sculpture</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2747.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2654-15">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>self-portrait</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2654.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2731-50">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>mermaid mailbox</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2731.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2711-43">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Van Der Veer House, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2711.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2788-65">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Hatteras Lighthouse homes</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2788.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2695-34">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Bath Creek water</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2695.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2776-62">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Queen Elizabeth II, Manteo, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2776.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2701-36">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Glebe House, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2701.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2645-10">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>palm tree</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2645.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2691-32">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Blackbeard's House, but not really</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2691.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2754-58">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>sea corral</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2754.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2783-64">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Hatteras Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2783.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2794-67">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>beach homes</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2794.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2675-23">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>farm house with lilies</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2675.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2746-55">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>irrigation ditch along US Highway 264</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2746.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2873-79">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>crab candles</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2873.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2705-39">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>viney sculpture</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2705.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2729-49">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>green field, grey sky</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2729.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2717-44">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>pastor at St. Thomas Church, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2717.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2657-16">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Oregon Inlet, North Carolina</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2657.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2831-73">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>inside Currituck Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2831.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2580-2">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>inside Bodie Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2580.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2710-42">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Van Der Veer House, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2710.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2802-68">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>seagulls</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2802.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2682-25">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Belhaven City Hall</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2682.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2683-26">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>lunch</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2683.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2704-38">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>oldest NC public library</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2704.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2743-53">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>shrimp boat named Scooter</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2743.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2861-78">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>seagull</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2861.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2688-30">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>church</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2688.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2850-75">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>beach</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2850.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2600-4">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>shark</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2600.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2780-63">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Dare County Courthouse, Manteo, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2780.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2697-35">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>pine cones</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2697.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2761-59">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>poisonous fish</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2761.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2750-57">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>turtles</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2750.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2702-37">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Blackbeard</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2702.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2694-33">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Bonner House, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2694.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2808-69">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Little Mermaid beach house</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2808.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2774-61">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Hydrangea</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2774.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2584-3">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Bodie Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2584.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2741-52">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>shrimp boats</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2741.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2686-28">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>St. Thomas Church, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2686.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2679-24">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>passion flower</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2679.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2607-6">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>fisher boy</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2607.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2708-41">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Palmer House, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2708.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2632-8">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Neptune</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2632.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2852-76">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>waves at the beach</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2852.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2671-21">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>irrigation ditch</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2671.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2719-45">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>St. Thomas Church, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2719.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2667-19">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Octagon House, Engelhard, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2667.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2738-51">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>bean harvesting tractor</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2738.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2720-46">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>overgrown garage</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2720.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2707-40">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>sun tile</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2707.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2811-70">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Currituck Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2811.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2791-66">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>typical beach house</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2791.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2687-29">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>St. Thomas Church, Bath, NC</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2687.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2723-48">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Atlantic Intercostal Waterway</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2723.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2828-72">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>view from atop Currituck Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2828.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2815-71">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Currituck Lighthouse</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2815.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2663-18">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>dead boat</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2663.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2659-17">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Oregon Inlet life saving station</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2659.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2653-14">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>Oregon Inlet life saving station</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2653.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2838-74">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>pink fuzzy flowers</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2838.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2602-5">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>sharks</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2602.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN2649-12">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>obx</oai_lod:set>
+<dc:title>daisies</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/obx/Images/DSCN2649.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5905">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>fire red lily</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5905.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5770">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>white flowers</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5770.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5772">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>bouy sculpture</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5772.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5729">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Rock Run</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5729.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5708">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>red berries</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5708.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5906">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>turtle</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5906.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5755">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>red cactus flower</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5755.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5783">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>tobacco foundation</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5783.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5719">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>bee balm</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5719.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5902">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>self-portrait</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5902.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5711">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>orange day lily</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5711.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5716">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>brown-eyed Susans</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5716.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5765">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>sky</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5765.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5773">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>cows</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5773.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5761">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>barn</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5761.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5786">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>many venuses</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5786.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5715">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>another tiny white flower</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5715.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5739">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Rock Run</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5739.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5706">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Lycoming Creek</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5706.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5725">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>grassy road</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5725.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5722">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>dirt road</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5722.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5916">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>daisies</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5916.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5908">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Mushroom Manor</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5908.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5915">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>daisies</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5915.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5778">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>garden</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5778.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5712">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>tiny white flowers</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5712.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5758">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>farm house</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5758.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5784">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Venus of Lancaster</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5784.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5714">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>red combs</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5714.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5917">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>daisy</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5917.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5776">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Queen Ann's Lace</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5776.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5705">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Lycoming Creek</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5705.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5707">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Lycoming Creek</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5707.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5728">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Rock Run</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5728.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5774">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>mailbox</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5774.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5766">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>farm house</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5766.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5771">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>yellow day lilies</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5771.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5741">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Rock Run</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5741.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5723">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>tree guarding a rock</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5723.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5753">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>marsh-hill</oai_lod:set>
+<dc:title>Rock Run</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/marsh-hill/Images/DSCN5753.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010013-7">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>lunch</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010013.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010015-9">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>sculpture</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010015.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010009-5">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>Houston City Hall</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010009.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010010-6">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>sculpture</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010010.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010025-13">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>art shot</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010025.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010020-10">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>pipes in a mall</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010020.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010033-15">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>sculpture</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010033.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010027-14">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>sky scrapers</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010027.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010008-4">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>Houston Public Library</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010008.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4020046-19">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>spiky flower</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4020046.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4020048-20">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>snap dragon</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4020048.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4020040-17">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>At the barbeque</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4020040.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4020035-16">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>warm-up band</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4020035.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010006-3">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>venus</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010006.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010021-11">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>water fall</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010021.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010024-12">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>sky scraper</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010024.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4020049-21">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>Goode's Barbeque</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4020049.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4020045-18">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>blue bonnet flower</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4020045.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010014-8">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>building</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010014.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4020050-22">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>Rice University</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4020050.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010002-1">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>old public library</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010002.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:P4010005-2">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>houston</oai_lod:set>
+<dc:title>ceiling</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/houston/Images/P4010005.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5573">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>self-portrait with windmills</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5573.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5524">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5524.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5515">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5515.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5550">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Mt. Diablo</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5550.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5486">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5486.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5507">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5507.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5483">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5483.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5584">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>windmills</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5584.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5503">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5503.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5562">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>windmills</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5562.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5498">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5498.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5521">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5521.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5479">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>barn</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5479.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5476">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>hay bales</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5476.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5523">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5523.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5529">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>Morgan Territory</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5529.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5511">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>lone tree</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5511.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+<rdf:Description rdf:about="http://mediaspaces.org/oai:images:DSCN5481">
+<rdf:type rdf:resource="http://mediaspaces.mminf.univie.ac.at/voc/oai_lod#Item"/>
+<oai_lod:set>morgan-territory</oai_lod:set>
+<dc:title>rolling hills</dc:title>
+<dc:creator>Morgan, Eric Lease</dc:creator>
+<dc:contributor>Infomotions, Inc.</dc:contributor>
+<dc:type>image</dc:type>
+<dc:format>image/jpeg</dc:format>
+<dc:identifier>http://infomotions.com/gallery/morgan-territory/Images/DSCN5481.jpg</dc:identifier>
+<dc:language>en-US</dc:language>
+<dc:rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</dc:rights>
+</rdf:Description>
+</rdf:RDF>

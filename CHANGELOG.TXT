@@ -1,0 +1,20 @@
+2008/11/17
+    RELEASE 0.2.1
+    
+    - upgrade to current D2R Server code (v. 0.4.1-dev)
+	- stylesheet for MODS support (./etc/xsl/oai_mods2rdf_xml.xsl) - currently a small subset for testing purposed; tested only with MODS metadata provided by LOC OAI-PMH (see samples)
+
+2008/04/18
+	RELEASE 0.2
+
+	- Support for linking exposed OAI-PMH data with those of other open, SPARQL-enabled data sources.
+	- Link back to the metadata record's origin OAI-PMH Data Provider
+	- Expose OAI-PMH Sets as linked, dereferencable resources
+
+2008/04/12
+	RELEASE 0.1
+
+	- Harvest metadata from any OAI-PMH compliant data provider
+	- Transform metadata to RDF/XML according to an XSL style sheet definition
+	- Set the number of metadata records to be harvested to a certain number
+	- Expose metadata in RDF using a freely chosen, Web accessible endpoint

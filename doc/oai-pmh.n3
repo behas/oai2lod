@@ -1,0 +1,55 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oai: <http://www.mediaspaces.info/vocab/oai-pmh.rdf#> .
+
+<> a owl:Ontology;
+    rdfs:label "OAI-PMH Vocabulary."@en;
+    rdfs:comment "This vocabulary defines RDF terms for the OAI-PMH protocol."@en;
+    foaf:page <http://www.mediaspaces.info/index.php?dir=tools&page=oai2lod>;
+    .
+<http://www.mediaspaces.info/index.php?dir=tools&page=oai2lod>
+    rdfs:label "OAI2LOD Server homepage and documentation"@en;
+    .
+oai:Item a rdfs:Class;
+    rdfs:label "Item"@en;
+    rdfs:comment "A constituent of a repository from which metadata about a resource can be disseminated."@en;
+    rdfs:isDefinedBy <http://www.openarchives.org/OAI/openarchivesprotocol.html#Item>;
+    .
+oai:set a rdf:Property;
+    rdfs:label "set"@en;
+    rdfs:comment "The set an item belongs to."@en;
+    rdfs:domain oai:Item;
+    rdfs:range oai:Set;
+    .
+oai:Set a rdfs:Class;
+	rdfs:label "Set"@en;
+	rdfs:comment "A set is an optional construct for grouping items for the purpose of selective harvesting";
+    rdfs:isDefinedBy <http://www.openarchives.org/OAI/openarchivesprotocol.html#Set>;
+    .
+oai:setSpec a rdf:Property;
+    rdfs:label "setSpec"@en;
+    rdfs:comment "A unique identifier for the set within the repository."@en;
+    rdfs:domain oai:Set;
+    rdfs:isDefinedBy <http://www.openarchives.org/OAI/openarchivesprotocol.html#Set>;
+    .
+oai:setName a rdf:Property;
+    rdfs:label "setName"@en;
+    rdfs:comment "A short human-readable string naming the set."@en;
+    rdfs:domain oai:Set;
+    rdfs:isDefinedBy <http://www.openarchives.org/OAI/openarchivesprotocol.html#Set>;
+    .
+oai:setDescription a rdf:Property;
+    rdfs:label "setSpec"@en;
+    rdfs:comment "Holds community-specific descriptions about the set."@en;
+    rdfs:domain oai:Set;
+    rdfs:isDefinedBy <http://www.openarchives.org/OAI/openarchivesprotocol.html#Set>;
+    .
+oai:origin a rdf:Property;
+    rdfs:label "origin"@en;
+    rdfs:comment "Links to the origin of an OAI-PMH Item or Set harvested by the OAI2LOD Server."@en;
+    rdfs:subproperty rdfs:seeAlso;
+    rdfs:domain oai:Set;
+    rdfs:domain oai:Item;
+    .	    	

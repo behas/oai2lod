@@ -1,0 +1,4348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2007-07-30T11:41:37Z</responseDate>
+<request verb="ListRecords" resumptionToken="!!!oai_dc!1400">http://www.infomotions.com/gallery/oai/index.pl</request>
+
+<ListRecords>
+<record>
+<header>
+<identifier>oai:images:cathedral_detail_1</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/cathedral_detail_1.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cathedral detail</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN4741</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/DSCN4741.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Chetham's Library</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:sheep</identifier>
+<datestamp>2005-03-07T15:54:52Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/sheep.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sheep</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:Lancaster_Castle_1</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/Lancaster_Castle_1.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lancaster Priory</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:steam_engine</identifier>
+<datestamp>2005-03-07T15:54:52Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/steam_engine.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>steam engine</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:Scottish_cemetery</identifier>
+<datestamp>2005-03-07T15:54:52Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/Scottish_cemetery.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Scottish cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:Roman_fort_1</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/Roman_fort_1.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Roman fort</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN4746</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/DSCN4746.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Chetham's Library</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:daffodils</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/daffodils.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>daffodils</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:Liverpool_square_1</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/Liverpool_square_1.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Liverpool square</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:Lancaster_Square</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/Lancaster_Square.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lancaster Square</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:Liverpool_train_station</identifier>
+<datestamp>2005-03-07T15:54:51Z</datestamp>
+<setSpec>manchester</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/manchester/Images/Liverpool_train_station.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Liverpool train station</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:self_portrait</identifier>
+<datestamp>2004-12-24T18:02:49Z</datestamp>
+<setSpec>manchester</setSpec>
+<setSpec>monterey-bay</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/monterey-bay/Images/self_portrait.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7421</identifier>
+<datestamp>2006-09-25T10:22:03Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7421.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silk exchange pillar</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7497</identifier>
+<datestamp>2006-09-25T10:22:11Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7497.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7442</identifier>
+<datestamp>2006-09-25T10:22:05Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7442.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cathedral portal</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7449</identifier>
+<datestamp>2006-09-25T10:22:07Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7449.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>bridge</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7420</identifier>
+<datestamp>2006-09-25T10:22:03Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7420.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silk exchange ceiling</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7489</identifier>
+<datestamp>2006-09-25T10:22:10Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7489.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fort sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7468</identifier>
+<datestamp>2006-09-25T10:22:08Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7468.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>basilica bell tower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7403</identifier>
+<datestamp>2006-09-25T10:22:01Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7403.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Alicante fountain</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7444</identifier>
+<datestamp>2006-09-25T10:22:06Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7444.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Meguelete bell tower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7546</identifier>
+<datestamp>2006-09-25T10:22:16Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7546.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>public garden fountain</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7526</identifier>
+<datestamp>2006-09-25T10:22:14Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7526.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Basilica de Santa Maria</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7503</identifier>
+<datestamp>2006-09-25T10:22:11Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7503.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>dates</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7496</identifier>
+<datestamp>2006-09-25T10:22:11Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7496.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>shady tree</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7535</identifier>
+<datestamp>2006-09-25T10:22:15Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7535.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>even more dates</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7498</identifier>
+<datestamp>2006-09-25T10:22:11Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7498.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>habiscus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7485</identifier>
+<datestamp>2006-09-25T10:22:10Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7485.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>red against blue</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7519</identifier>
+<datestamp>2006-09-25T10:22:13Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7519.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Elche fountain</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7475</identifier>
+<datestamp>2006-09-25T10:22:09Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7475.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>yellow flowers</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7501</identifier>
+<datestamp>2006-09-25T10:22:11Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7501.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>yellow flower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7466</identifier>
+<datestamp>2006-09-25T10:22:08Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7466.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7528</identifier>
+<datestamp>2006-09-25T10:22:14Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7528.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Elche date grove</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7428</identifier>
+<datestamp>2006-09-25T10:22:04Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7428.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>San Nicolas</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7527</identifier>
+<datestamp>2006-09-25T10:22:14Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7527.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Elche date grove</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7480</identifier>
+<datestamp>2006-09-25T10:22:09Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7480.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>red flowers</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7537</identifier>
+<datestamp>2006-09-25T10:22:15Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7537.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>market</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7427</identifier>
+<datestamp>2006-09-25T10:22:04Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7427.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>San Nicolas dome</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7477</identifier>
+<datestamp>2006-09-25T10:22:09Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7477.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>giant hand</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7414</identifier>
+<datestamp>2006-09-25T10:22:02Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7414.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>lunch</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7511</identifier>
+<datestamp>2006-09-25T10:22:13Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7511.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus garden</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7404</identifier>
+<datestamp>2006-09-25T10:22:01Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7404.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>rubber tree</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7512</identifier>
+<datestamp>2006-09-25T10:22:13Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7512.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mediterranean Sea at Alicante (Spain)</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7424</identifier>
+<datestamp>2006-09-25T10:22:04Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7424.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silk exchange floor</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7462</identifier>
+<datestamp>2006-09-25T10:22:07Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7462.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Valencia</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7426</identifier>
+<datestamp>2006-09-25T10:22:04Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7426.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silk exchange</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7553</identifier>
+<datestamp>2006-09-25T10:22:16Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7553.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Castillo de Santa Barbara</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7405</identifier>
+<datestamp>2006-09-25T10:22:02Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7405.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7452</identifier>
+<datestamp>2006-09-25T10:22:07Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7452.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hemispheric</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7510</identifier>
+<datestamp>2006-09-25T10:22:12Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7510.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7450</identifier>
+<datestamp>2006-09-25T10:22:07Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7450.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hemispheric</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7415</identifier>
+<datestamp>2006-09-25T10:22:03Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7415.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silk exchange gargoyle</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7411</identifier>
+<datestamp>2006-09-25T10:22:02Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7411.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>tile wall</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7458</identifier>
+<datestamp>2006-09-25T10:22:07Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7458.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Venus of Valencia</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7494</identifier>
+<datestamp>2006-09-25T10:22:10Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7494.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sunrise</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7471</identifier>
+<datestamp>2006-09-25T10:22:08Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7471.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>drinking fountain</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7433</identifier>
+<datestamp>2006-09-25T10:22:05Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7433.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Valencian door</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7448</identifier>
+<datestamp>2006-09-25T10:22:06Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7448.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>gargoyle</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7508</identifier>
+<datestamp>2006-09-25T10:22:12Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7508.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7410</identifier>
+<datestamp>2006-09-25T10:22:02Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7410.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Castillo de Santa Barbara</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7429</identifier>
+<datestamp>2006-09-25T10:22:04Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7429.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Valencian door</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7478</identifier>
+<datestamp>2006-09-25T10:22:09Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7478.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>University of Alicante</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7542</identifier>
+<datestamp>2006-09-25T10:22:15Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7542.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>more dates</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7432</identifier>
+<datestamp>2006-09-25T10:22:05Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7432.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Valencian row home</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7520</identifier>
+<datestamp>2006-09-25T10:22:13Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7520.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Basilica de Santa Maria</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7506</identifier>
+<datestamp>2006-09-25T10:22:12Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7506.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7538</identifier>
+<datestamp>2006-09-25T10:22:15Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7538.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Basilica de Santa Maria</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7447</identifier>
+<datestamp>2006-09-25T10:22:06Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7447.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Valencian foutain</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7473</identifier>
+<datestamp>2006-09-25T10:22:08Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7473.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cathedral</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7521</identifier>
+<datestamp>2006-09-25T10:22:14Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7521.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Basilica de Santa Maria</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7545</identifier>
+<datestamp>2006-09-25T10:22:15Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7545.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>my date</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7505</identifier>
+<datestamp>2006-09-25T10:22:12Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7505.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cactus flower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7488</identifier>
+<datestamp>2006-09-25T10:22:10Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7488.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7418</identifier>
+<datestamp>2006-09-25T10:22:03Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7418.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Santos Juanas</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7439</identifier>
+<datestamp>2006-09-25T10:22:05Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7439.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>plaza fountain</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7446</identifier>
+<datestamp>2006-09-25T10:22:06Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7446.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Valencian orange</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7543</identifier>
+<datestamp>2006-09-25T10:22:15Z</datestamp>
+<setSpec>alicante</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/alicante/Images/DSCN7543.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Dame del Elche</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7148</identifier>
+<datestamp>2006-07-01T18:13:20Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7148.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Laura Plantation</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7118</identifier>
+<datestamp>2006-07-01T18:13:17Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7118.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>trumpet vine</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7091</identifier>
+<datestamp>2006-07-01T18:13:15Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7091.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>St. Louis Cathedral</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7128</identifier>
+<datestamp>2006-07-01T18:13:18Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7128.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7152</identifier>
+<datestamp>2006-07-01T18:13:21Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7152.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7126</identifier>
+<datestamp>2006-07-01T18:13:18Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7126.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7129</identifier>
+<datestamp>2006-07-01T18:13:18Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7129.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>giant pile of yellow stuff</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7105</identifier>
+<datestamp>2006-07-01T18:13:16Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7105.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7098</identifier>
+<datestamp>2006-07-01T18:13:15Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7098.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7150</identifier>
+<datestamp>2006-07-01T18:13:21Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7150.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7114</identifier>
+<datestamp>2006-07-01T18:13:17Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7114.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>burnt car</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7097</identifier>
+<datestamp>2006-07-01T18:13:15Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7097.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7157</identifier>
+<datestamp>2006-07-01T18:13:22Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7157.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7146</identifier>
+<datestamp>2006-07-01T18:13:20Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7146.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Mississippi River at Oak Alley Plantation</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7113</identifier>
+<datestamp>2006-07-01T18:13:17Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7113.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7124</identifier>
+<datestamp>2006-07-01T18:13:18Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7124.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>boat out of water</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7162</identifier>
+<datestamp>2006-07-01T18:13:23Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7162.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7153</identifier>
+<datestamp>2006-07-01T18:13:21Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7153.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7138</identifier>
+<datestamp>2006-07-01T18:13:19Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7138.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cricket</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7163</identifier>
+<datestamp>2006-07-01T18:13:23Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7163.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7155</identifier>
+<datestamp>2006-07-01T18:13:22Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7155.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7101</identifier>
+<datestamp>2006-07-01T18:13:16Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7101.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7158</identifier>
+<datestamp>2006-07-01T18:13:22Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7158.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7135</identifier>
+<datestamp>2006-07-01T18:13:19Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7135.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Oak Alley Plantation</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7160</identifier>
+<datestamp>2006-07-01T18:13:22Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7160.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7151</identifier>
+<datestamp>2006-07-01T18:13:21Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7151.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7164</identifier>
+<datestamp>2006-07-01T18:13:23Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7164.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7109</identifier>
+<datestamp>2006-07-01T18:13:16Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7109.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7141</identifier>
+<datestamp>2006-07-01T18:13:20Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7141.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Oak Alley Plantation</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7096</identifier>
+<datestamp>2006-07-01T18:13:15Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7096.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7134</identifier>
+<datestamp>2006-07-01T18:13:19Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7134.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sugar cane harvester</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7156</identifier>
+<datestamp>2006-07-01T18:13:22Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7156.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>angel</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7133</identifier>
+<datestamp>2006-07-01T18:13:19Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7133.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Oak Alley Plantation</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7116</identifier>
+<datestamp>2006-07-01T18:13:17Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7116.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7147</identifier>
+<datestamp>2006-07-01T18:13:20Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7147.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Laura Plantation</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7107</identifier>
+<datestamp>2006-07-01T18:13:16Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7107.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7110</identifier>
+<datestamp>2006-07-01T18:13:17Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7110.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lower Ninth Ward, New Orleans</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN7161</identifier>
+<datestamp>2006-07-01T18:13:23Z</datestamp>
+<setSpec>new-orleans</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/new-orleans/Images/DSCN7161.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Metairie Cemetery</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5437</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5437.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>woman</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5447</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5447.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>church</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5461</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5461.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cut-out family</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5471</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5471.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lake Michigan</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5457</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5457.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>blue pots</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5449</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5449.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>rhododendron</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5470</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5470.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>black and white chairs</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5473</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5473.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lake Michigan</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5464</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5464.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cut-out family</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5474</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5474.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5455</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5455.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5432</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5432.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>fish</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5463</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5463.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>cut-out family</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5434</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5434.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>man</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5446</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5446.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>bird man</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5454</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5454.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>man</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5460</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5460.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>two-headed giraffe</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5442</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5442.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>bicyclists</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5444</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5444.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>rhododendron</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN5440</identifier>
+<datestamp>2005-06-12T13:37:28Z</datestamp>
+<setSpec>saugatuck</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/saugatuck/Images/DSCN5440.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>dancer</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc>
+</metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1608-34</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1608.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lake Mead</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1596-27</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1596.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>power grid</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1587-23</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1587.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam intake towers</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1577-19</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1577.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam observation deck</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1602-31</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1602.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam temple</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1599-29</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1599.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam temple</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1568-16</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1568.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Art Deco statue</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1598-28</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1598.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam temple</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1603-32</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1603.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam temple</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1485-1</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1485.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Las Vegas lights</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1575-18</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1575.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1560-13</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1560.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1551-9</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1551.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1578-20</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1578.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1556-12</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1556.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam generators</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1624-39</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1624.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Red Rock Canyon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1489-2</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1489.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>McDonalds</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1588-24</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1588.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lake Mead</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1563-14</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1563.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1548-8</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1548.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>desert canyon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1517-5</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1517.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Only 5 Cents</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1601-30</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1601.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam temple</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1553-10</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1553.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1544-6</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1544.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>hotel view</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1616-36</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1616.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Red Rock Canyon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1623-38</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1623.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Red Rock Canyon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1615-35</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1615.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Red Rock Canyon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1555-11</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1555.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1566-15</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1566.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Colorado River</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1572-17</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1572.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam intake tower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1620-37</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1620.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Red Rock Canyon</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1581-21</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1581.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1592-26</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1592.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam sculpture</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1583-22</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1583.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Hoover Dam intake tower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1504-3</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1504.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>neon lights</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1510-4</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1510.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Las Vegas lights</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1546-7</identifier>
+<datestamp>2004-12-25T22:50:58Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1546.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>breakfast</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1591-25</identifier>
+<datestamp>2004-12-25T22:50:59Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1591.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>via duct</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN1607-33</identifier>
+<datestamp>2004-12-25T22:51:00Z</datestamp>
+<setSpec>las-vegas</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/las-vegas/Images/DSCN1607.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>Lake Mead</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2198-20</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2198.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>expanse of snow</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2146-1</identifier>
+<datestamp>2004-12-24T20:03:14Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2146.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>snails</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2165-6</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2165.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>tree stump</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2170-8</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2170.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn ceiling</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2208-23</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2208.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2182-14</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2182.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silo</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2223-33</identifier>
+<datestamp>2004-12-24T20:03:16Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2223.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2178-12</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2178.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn steps</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2163-5</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2163.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>tree stump</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2189-17</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2189.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>on top of a silo</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2207-22</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2207.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>coming home</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2171-9</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2171.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>land cruiser</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2186-16</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2186.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2176-11</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2176.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn yard wall</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2192-18</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2192.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>down a silo</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2235-38</identifier>
+<datestamp>2004-12-24T20:03:16Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2235.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2230-37</identifier>
+<datestamp>2004-12-24T20:03:16Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2230.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>icy spout</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2196-19</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2196.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>tree's shadow</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2203-21</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2203.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>telephone tower</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2159-4</identifier>
+<datestamp>2004-12-24T20:03:14Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2159.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>barn door</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2214-26</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2214.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>self-portrait</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2209-24</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2209.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silo</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2228-36</identifier>
+<datestamp>2004-12-24T20:03:16Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2228.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>farm house</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2217-29</identifier>
+<datestamp>2004-12-24T20:03:15Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2217.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>silo</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<record>
+<header>
+<identifier>oai:images:DSCN2149-2</identifier>
+<datestamp>2004-12-24T20:03:14Z</datestamp>
+<setSpec>barn</setSpec>
+</header>
+<metadata>
+
+<oaidc:dc xmlns="http://purl.org/dc/elements/1.1/" xmlns:oaidc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+                              
+        <identifier>http://infomotions.com/gallery/barn/Images/DSCN2149.jpg</identifier>
+        <creator>Morgan, Eric Lease</creator>
+        <title>side of barn</title>
+        <rights>This image is distributed under the GNU Public License. Full-scale images are owned by Infomotions, Inc.</rights>
+        <type>image</type>
+        <format>image/jpeg</format>
+        <language>en-US</language>
+        <contributor>Infomotions, Inc.</contributor>
+   
+</oaidc:dc></metadata>
+</record>
+<resumptionToken cursor="1400" completeListSize="1837">!!!oai_dc!1600</resumptionToken>
+</ListRecords>
+
+</OAI-PMH>

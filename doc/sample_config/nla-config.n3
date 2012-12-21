@@ -1,0 +1,19 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix oai2lod: <http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#> .
+
+<> a oai2lod:Server;
+	rdfs:label "Example OAI2LOD Server exposing Metadata from the National Library of Australia";
+	oai2lod:port 3030;
+	oai2lod:baseURI <http://localhost:3030/>;
+	oai2lod:publishes <oai1>;
+	.
+	
+<oai1> a oai2lod:OAIServer;
+	oai2lod:serverURL <http://www.nla.gov.au/apps/oaicat/servlet/OAIHandler>;
+	oai2lod:metadataPrefix "oai_dc";
+	oai2lod:styleSheet "xsl/oai_dc2rdf_xml.xsl";
+	oai2lod:maxRecords 200;
+	.

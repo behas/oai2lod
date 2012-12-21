@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="OAI2LOD" default="all" basedir=".">
+
+	<property name="name" value="oai2lod-server" />
+	<property name="version" value="0.2.1" />
+	<property name="project.package" value="at.ac.univie.mminf.oai2lod" />
+	<property name="project.path" value="at/ac/univie/mminf/oai2lod" />
+	<property name="src" value="src" />
+	<property name="src.tests" value="test" />
+	<property name="build" value="bldsrc" />
+	<property name="build.tests" value="bldtests" />
+	<property name="testdata" value="testData" />
+	<property name="lib" value="lib" />
+	<property name="doc" value="doc" />
+	<property name="distname" value="${name}-${version}" />
+	<property name="jar" value="${lib}/${distname}.jar" />
+	<property name="zip" value="${distname}.zip" />
+	<property name="tar" value="${distname}.tar.gz" />
+	<property name="war" value="${name}.war" />
+	<property name="junit.jar" value="${lib}/junit-4.4.jar" />
+
+	<property name="vocab.config.n3" value="${doc}/oai2lod-server-config.n3" />
+	<property name="vocab.config.rdf" value="${doc}/oai2lod-server-config.rdf" />
+	<property name="vocab.config.namespace" value="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#" />
+	<property name="vocab.config.name" value="OAI2LOD" />
+	<property name="vocab.config.java" value="${src}/${project.path}/vocab/${vocab.config.name}.java" />
+
+	<property name="vocab.oai.n3" value="${doc}/oai-pmh.n3" />
+	<property name="vocab.oai.rdf" value="${doc}/oai-pmh.rdf" />
+	<property name="vocab.oai.namespace" value="http://www.mediaspaces.info/vocab/oai-pmh.rdf#" />
+	<property name="vocab.oai.name" value="OAI" />
+	<property name="vocab.oai.java" value="${src}/${project.path}/vocab/${vocab.oai.name}.java" />
+
+	<property name="vocab.mods.n3" value="${doc}/modsv3.n3" />
+	<property name="vocab.mods.rdf" value="${doc}/modsv3.rdf" />
+	<property name="vocab.mods.namespace" value="http://www.mediaspaces.info/schemes/mods/v3#" />
+	<property name="vocab.mods.name" value="MODS" />
+	<property name="vocab.mods.java" value="${src}/${project.path}/vocab/${vocab.mods.name}.java" />
+
+	<property name="vocab.onb.n3" value="${doc}/onb_schema.n3" />
+	<property name="vocab.onb.rdf" value="${doc}/onb_schema.rdf" />
+	<property name="vocab.onb.namespace" value="http://www.mediaspaces.info/schemes/onb#" />
+	<property name="vocab.onb.name" value="ONB" />
+	<property name="vocab.onb.java" value="${src}/${project.path}/vocab/${vocab.onb.name}.java" />
+
+
+
+	<property name="vocab.package" value="${project.package}.vocab" />
+
+
+	<path id="project.class.path">
+		<fileset dir="${lib}">
+			<include name="**/*.jar" />
+			<exclude name="${junit.jar}" />
+		</fileset>
+		<pathelement path="${java.class.path}" />
+	</path>
+
+	<patternset id="distfiles">
+		<include name="**/*" />
+		<exclude name="${build}/**" />
+		<exclude name="${build.tests}/**" />
+		<exclude name="build/**" />
+		<exclude name="${zip}" />
+		<exclude name="${tar}" />
+		<exclude name=".project" />
+		<exclude name=".classpath" />
+		<exclude name="velocity.log" />
+	</patternset>
+
+	<property name="execfiles" value="d2r-server generate-mapping etc/make_classpath" />
+
+	<target name="clean">
+		<delete dir="${build}" failonerror="false" />
+		<delete dir="${build.tests}" failonerror="false" />
+		<delete file="${war}" failonerror="false" />
+		<delete failonerror="false">
+			<fileset dir="." includes="${lib}/${name}-*.jar,${name}-*.zip,${name}-*.tar.gz" />
+		</delete>
+
+	</target>
+
+	<target name="init">
+		<mkdir dir="${build}" />
+	</target>
+
+	<target name="compile" depends="init">
+		<javac srcdir="${src}" destdir="${build}" debug="on" source="1.5" target="1.5">
+			<classpath refid="project.class.path" />
+		</javac>
+		<javac srcdir="${src.tests}" destdir="${build}" debug="on" source="1.5" target="1.5">
+			<classpath refid="project.class.path" />
+		</javac>
+
+	</target>
+	<!--
+	<target name="init.tests">
+		<mkdir dir="${build.tests}"/>
+	</target>
+
+	<target name="compile.tests" depends="init.tests,compile">
+		<javac srcdir="${src.tests}" destdir="${build.tests}" debug="on" source="1.4" target="1.4">
+			<classpath>
+				<path refid="project.class.path"/>
+				<pathelement path="${build}"/>
+				<pathelement path="${junit.jar}"/>
+			</classpath>
+		</javac>
+	</target>
+
+	<target name="test" depends="compile.tests">
+		<java classname="junit.textui.TestRunner" fork="yes" failonerror="true">
+			<arg value="${project.package}.AllTests"/>
+			<classpath>
+				<path refid="project.class.path"/>
+				<pathelement path="${build}"/>
+				<pathelement path="${build.tests}"/>
+				<pathelement path="${junit.jar}"/>
+			</classpath>
+		</java>
+	</target>
+
+	<target name="jar" depends="compile,test">-->
+	<target name="jar" depends="compile">
+		<jar jarfile="${jar}" basedir="${build}" />
+	</target>
+
+	<target name="zip" depends="jar">
+		<zip destfile="${zip}">
+			<zipfileset prefix="${distname}" dir=".">
+				<patternset refid="distfiles" />
+			</zipfileset>
+		</zip>
+	</target>
+
+	<target name="tar" depends="jar">
+		<tar destfile="${tar}" compression="gzip">
+			<tarfileset prefix="${distname}" dir="." includes="${execfiles}" mode="755" />
+			<tarfileset prefix="${distname}" dir="." excludes="${execfiles}">
+				<patternset refid="distfiles" />
+			</tarfileset>
+		</tar>
+	</target>
+
+	<target name="all" depends="zip,tar" />
+
+	<target name="vocab.oai2lod.schemagen">
+		<java classname="jena.schemagen" classpathref="project.class.path" fork="yes" failonerror="true">
+			<arg value="-i" />
+			<arg value="file:${vocab.config.n3}" />
+			<arg value="-o" />
+			<arg value="${vocab.config.java}" />
+			<arg value="-a" />
+			<arg value="${vocab.config.namespace}" />
+			<arg value="-n" />
+			<arg value="${vocab.config.name}" />
+			<arg value="--package" />
+			<arg value="${vocab.package}" />
+			<arg value="--rdfs" />
+		</java>
+	</target>
+
+	<target name="vocab.oai.schemagen">
+		<java classname="jena.schemagen" classpathref="project.class.path" fork="yes" failonerror="true">
+			<arg value="-i" />
+			<arg value="file:${vocab.oai.n3}" />
+			<arg value="-o" />
+			<arg value="${vocab.oai.java}" />
+			<arg value="-a" />
+			<arg value="${vocab.oai.namespace}" />
+			<arg value="-n" />
+			<arg value="${vocab.oai.name}" />
+			<arg value="--package" />
+			<arg value="${vocab.package}" />
+			<arg value="--rdfs" />
+			<arg value="--ontology" />
+		</java>
+	</target>
+
+	<target name="vocab.mods.schemagen">
+		<java classname="jena.schemagen" classpathref="project.class.path" fork="yes" failonerror="true">
+			<arg value="-i" />
+			<arg value="file:${vocab.mods.n3}" />
+			<arg value="-o" />
+			<arg value="${vocab.mods.java}" />
+			<arg value="-a" />
+			<arg value="${vocab.mods.namespace}" />
+			<arg value="-n" />
+			<arg value="${vocab.mods.name}" />
+			<arg value="--package" />
+			<arg value="${vocab.package}" />
+			<arg value="--rdfs" />
+			<arg value="--ontology" />
+		</java>
+	</target>
+
+	<target name="vocab.onb.schemagen">
+		<java classname="jena.schemagen" classpathref="project.class.path" fork="yes" failonerror="true">
+			<arg value="-i" />
+			<arg value="file:${vocab.onb.n3}" />
+			<arg value="-o" />
+			<arg value="${vocab.onb.java}" />
+			<arg value="-a" />
+			<arg value="${vocab.onb.namespace}" />
+			<arg value="-n" />
+			<arg value="${vocab.onb.name}" />
+			<arg value="--package" />
+			<arg value="${vocab.package}" />
+			<arg value="--rdfs" />
+			<arg value="--ontology" />
+		</java>
+	</target>
+
+
+
+	<target name="vocab.oai2lod.xml">
+		<java classname="jena.rdfcopy" classpathref="project.class.path" fork="yes" output="${vocab.config.rdf}" logError="yes" failonerror="true">
+			<arg value="${vocab.config.n3}" />
+			<arg value="N3" />
+			<arg value="RDF/XML-ABBREV" />
+		</java>
+	</target>
+
+	<target name="vocab.oai.xml">
+		<java classname="jena.rdfcopy" classpathref="project.class.path" fork="yes" output="${vocab.oai.rdf}" logError="yes" failonerror="true">
+			<arg value="${vocab.oai.n3}" />
+			<arg value="N3" />
+			<arg value="RDF/XML-ABBREV" />
+		</java>
+	</target>
+
+	<target name="vocab.mods.xml">
+		<java classname="jena.rdfcopy" classpathref="project.class.path" fork="yes" output="${vocab.mods.rdf}" logError="yes" failonerror="true">
+			<arg value="${vocab.mods.n3}" />
+			<arg value="N3" />
+			<arg value="RDF/XML-ABBREV" />
+		</java>
+	</target>
+
+	<target name="vocab.onb.xml">
+		<java classname="jena.rdfcopy" classpathref="project.class.path" fork="yes" output="${vocab.onb.rdf}" logError="yes" failonerror="true">
+			<arg value="${vocab.onb.n3}" />
+			<arg value="N3" />
+			<arg value="RDF/XML-ABBREV" />
+		</java>
+	</target>
+
+
+	<target name="vocab.oai2lod" depends="vocab.oai2lod.xml,vocab.oai.xml,
+			vocab.oai2lod.schemagen,vocab.oai.schemagen,
+				vocab.mods.schemagen,vocab.mods.xml,
+					vocab.onb.schemagen, vocab.onb.xml" />
+</project>

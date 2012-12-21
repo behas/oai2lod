@@ -1,0 +1,47 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix mods: <http://www.mediaspaces.info/schemes/mods/v3#> .
+
+<> a owl:Ontology;
+    rdfs:label "MODS v3 Metadata Schema."@en;
+    rdfs:comment "Mediaspaces-specific representation of the MODS metadata schema."@en;
+    .
+
+mods:title a rdf:Property;
+	rdfs:label "title"@en;
+	.
+mods:subTitle a rdf:Property;
+	rdfs:label "subtitle"@en;
+	.
+mods:alternativeTitle a rdf:Property;
+	rdfs:label "alternative title"@en;
+	.
+mods:personalName a rdf:Property;
+	rdfs:label "personal name"@en;
+	.
+mods:corporateName a rdf:Property;
+	rdfs:label "corporate name"@en;
+	.
+mods:note a rdf:Property;
+	rdfs:label "note"@en;
+	.
+mods:abstract a rdf:Property;
+	rdfs:label "abstract"@en;
+	.
+mods:urlLocation a rdf:Property;
+	rdfs:label "urlLocation"@en;
+	.
+mods:lccClassification a rdf:Property;
+	rdfs:label "LCC classification"@en;
+	.
+mods:ddcClassification a rdf:Property;
+	rdfs:label "DDC classification"@en;
+	.
+mods:topic a rdf:Property;
+	rdfs:label "topic"@en;
+	.
+mods:geographic a rdf:Property;
+	rdfs:label "geographic"@en;
+	.

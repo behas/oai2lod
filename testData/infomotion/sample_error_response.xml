@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+
+<responseDate>2007-07-25T07:42:06Z</responseDate>
+<request verb="ListRecords" metadataPrefix="ffg">http://www.infomotions.com/gallery/oai/index.pl</request>
+
+<error code="cannotDisseminateFormat">The value of metadataPrefix is not supported by the repository</error>
+
+</OAI-PMH>

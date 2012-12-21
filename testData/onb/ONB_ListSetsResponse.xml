@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+				<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+					xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+					xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+				<responseDate>2008-04-14T08:11:42Z</responseDate>
+
+<request verb="ListSets">http://oai-bdb.onb.ac.at/Script/oai2.aspx</request>
+
+	<ListSets>
+<set><setSpec>-99</setSpec><setName>NONE</setName></set><set><setSpec>4937215</setSpec><setName>Bildarchiv</setName></set><set><setSpec>5055247</setSpec><setName>Ruebelt_Bilddaten</setName></set><set><setSpec>5090873</setSpec><setName>Portraet</setName></set><set><setSpec>5090874</setSpec><setName>USIS</setName></set><set><setSpec>5090875</setSpec><setName>Chmel</setName></set>
+		
+	</ListSets>
+</OAI-PMH>	

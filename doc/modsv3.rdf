@@ -1,0 +1,47 @@
+<rdf:RDF
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:mods="http://www.mediaspaces.info/schemes/mods/v3#&quot;"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#">
+  <owl:Ontology rdf:about="">
+    <rdfs:comment xml:lang="en">Mediaspaces-specific representation of the MODS metadata schema.</rdfs:comment>
+    <rdfs:label xml:lang="en">MODS v3 Metadata Schema.</rdfs:label>
+  </owl:Ontology>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;ddcClassification">
+    <rdfs:label xml:lang="en">DDC classification</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;urlLocation">
+    <rdfs:label xml:lang="en">urlLocation</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;subTitle">
+    <rdfs:label xml:lang="en">subtitle</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;geographic">
+    <rdfs:label xml:lang="en">geographic</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;abstract">
+    <rdfs:label xml:lang="en">abstract</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;topic">
+    <rdfs:label xml:lang="en">topic</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;alternativeTitle">
+    <rdfs:label xml:lang="en">alternative title</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;corporateName">
+    <rdfs:label xml:lang="en">corporate name</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;personalName">
+    <rdfs:label xml:lang="en">personal name</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;title">
+    <rdfs:label xml:lang="en">title</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;lccClassification">
+    <rdfs:label xml:lang="en">LCC classification</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/schemes/mods/v3#&quot;note">
+    <rdfs:label xml:lang="en">note</rdfs:label>
+  </rdf:Property>
+</rdf:RDF>

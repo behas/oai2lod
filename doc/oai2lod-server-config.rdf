@@ -1,0 +1,130 @@
+<rdf:RDF
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:oai2lod="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#">
+  <owl:Ontology rdf:about="">
+    <foaf:page>
+      <rdf:Description rdf:about="http://www.mediaspaces.info/index.php?dir=tools&amp;page=oai2lod">
+        <rdfs:label xml:lang="en">OAI2LOD Server homepage and documentation</rdfs:label>
+      </rdf:Description>
+    </foaf:page>
+    <rdfs:comment xml:lang="en">This vocabulary defines RDF terms used in configuration files for OAI2LOD Server, a software application that publishes OAI Endpoints on the Semantic Web.</rdfs:comment>
+    <rdfs:label xml:lang="en">OAI2LOD Server configuration vocabulary</rdfs:label>
+  </owl:Ontology>
+  <rdfs:Class rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#Server">
+    <rdfs:isDefinedBy rdf:resource=""/>
+    <rdfs:comment xml:lang="en">A configuration for a OAI2LOD Server installation.</rdfs:comment>
+    <rdfs:label xml:lang="en">Server</rdfs:label>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#OAIServer">
+    <rdfs:isDefinedBy rdf:resource=""/>
+    <rdfs:comment xml:lang="en">A configuration for an OAI-PMH Harvesting Job.</rdfs:comment>
+    <rdfs:label xml:lang="en">OAIServer</rdfs:label>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule">
+    <rdfs:comment xml:lang="en">Defines a condition for linking data sets</rdfs:comment>
+    <rdfs:label xml:lang="en">Linking Rule</rdfs:label>
+  </rdfs:Class>
+  <rdfs:Class rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkedSPARQLEndpoint">
+    <rdfs:comment xml:lang="en">Specification of a SPARQL endpoint to be linked</rdfs:comment>
+    <rdfs:label xml:lang="en">Linked SPARQL Endpoint</rdfs:label>
+  </rdfs:Class>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#linkingProperty">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:comment xml:lang="en">the property for linking two matching resources</rdfs:comment>
+    <rdfs:label xml:lang="en">linking Property</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#linkingRule">
+    <rdfs:range rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkedSPARQLEndpoint"/>
+    <rdfs:comment xml:lang="en">A rule specifying the linking conditions</rdfs:comment>
+    <rdfs:label xml:lang="en">linkingRule</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#sourceType">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:comment xml:lang="en">The rdf:type of an instance in the OAI2LOD Server data set</rdfs:comment>
+    <rdfs:label xml:lang="en">source Type</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#sourceProperty">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:comment xml:lang="en">The property to be considered in an instance in the OAI2LOD Server data set</rdfs:comment>
+    <rdfs:label xml:lang="en">source property</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#serverURL">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#OAIServer"/>
+    <rdfs:comment xml:lang="en">The URL endpoint of the OAI-PMH Server.</rdfs:comment>
+    <rdfs:label xml:lang="en">serverURL</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#metadataPrefix">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#OAIServer"/>
+    <rdfs:comment xml:lang="en">The metadata prefix denoting the format of the records to be harvested.</rdfs:comment>
+    <rdfs:label xml:lang="en">metadataPrefix</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#sparqlService">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkedSPARQLEndpoint"/>
+    <rdfs:comment xml:lang="en">The endpoint (URI) of the SPARQL service to be linked</rdfs:comment>
+    <rdfs:label xml:lang="en">sparqlService</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#minSimilarity">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:comment xml:lang="en">The minimum similarity two strings must have for being considered equal.</rdfs:comment>
+    <rdfs:label xml:lang="en">minimum Similarity</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#linkedWith">
+    <rdfs:range rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkedSPARQLEndpoint"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#Server"/>
+    <rdfs:comment>Another SPARQL endpoint to which this OAI2LOD Server installation is linked with</rdfs:comment>
+    <rdfs:label xml:lang="en">linked with</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#targetType">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:comment xml:lang="en">The rdf:type of an instance in the target data set</rdfs:comment>
+    <rdfs:label xml:lang="en">target Type</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#maxResults">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkedSPARQLEndpoint"/>
+    <rdfs:comment xml:lang="en">The maximum number of results when sending a SPARQL query (used for LIMIT clause)</rdfs:comment>
+    <rdfs:label xml:lang="en">maxResults</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#styleSheet">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#OAIServer"/>
+    <rdfs:comment xml:lang="en">The location (path) of the stylesheet to be used for transforming XML records into RDF/XML.</rdfs:comment>
+    <rdfs:label xml:lang="en">styleSheet</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#baseURI">
+    <rdfs:isDefinedBy rdf:resource=""/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#Server"/>
+    <rdfs:comment xml:lang="en">Base URI for a OAI2LOD Server installation; the URI of the running server's start page.</rdfs:comment>
+    <rdfs:label xml:lang="en">server base URI</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#similarityMetrics">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:comment xml:lang="en">The Java class which implements the algorithm used for calculating the similarity metrics (e.g., Levensthein).</rdfs:comment>
+    <rdfs:label xml:lang="en">similarity metrics</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#targetProperty">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#LinkingRule"/>
+    <rdfs:comment xml:lang="en">The property to be considered in an instance in the target data set</rdfs:comment>
+    <rdfs:label xml:lang="en">target property</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#port">
+    <rdfs:isDefinedBy rdf:resource=""/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#Server"/>
+    <rdfs:comment xml:lang="en">The TCP port on which a OAI2LOD Server installation listens.</rdfs:comment>
+    <rdfs:label xml:lang="en">server port</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#maxRecords">
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#OAIServer"/>
+    <rdfs:comment xml:lang="en">The maximum number of records to be harvested from an OAI-PMH Server.</rdfs:comment>
+    <rdfs:label xml:lang="en">maxRecords</rdfs:label>
+  </rdf:Property>
+  <rdf:Property rdf:about="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#publishes">
+    <rdfs:isDefinedBy rdf:resource=""/>
+    <rdfs:range rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#OAIServer"/>
+    <rdfs:domain rdf:resource="http://www.mediaspaces.info/vocab/oai2lod-server-config.rdf#Server"/>
+    <rdfs:comment xml:lang="en">The OAI-PMH endpoint that is published by a D2R Server installation.</rdfs:comment>
+    <rdfs:label xml:lang="en">publishes</rdfs:label>
+  </rdf:Property>
+</rdf:RDF>

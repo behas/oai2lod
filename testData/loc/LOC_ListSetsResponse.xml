@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" 
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+           xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ 
+                               http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2008-04-14T08:09:05Z</responseDate>
+<request verb="ListSets">http://memory.loc.gov/cgi-bin/oai2_0</request>
+  <ListSets>
+     <set>
+        <setSpec>ahii</setSpec>
+        <setName>Abdul Hamid II Photograph Albums</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for photographs in albums of Abdul-Hamid II Collection digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>This monumental collection portrays the Ottoman Empire during the reign of one of its last sultans, Abdul-Hamid II. The 1,819 photographs in 51 large-format albums date from about 1880 to 1893. They highlight the modernization of numerous aspects of the Ottoman Empire. Most of the places depicted are within the boundaries of modern-day Turkey, but buildings and sites in Iraq, Lebanon, Greece and other countries are also included.  Abdul-Hamid (1842-1918), an avid collector and promoter of photography, appears to have conceived the work as a portrait of his empire for a western audience. He presented a copy of the survey to the Library of Congress in 1893 or 1894. He also gave another almost identical collection to the British Museum (now in the British Library).  Well-known Ottoman commercial photographers such as Abdullah Frères, Sébah &amp; Joaillier, and Phébus took the bulk of the photographs. Turkish military photographer Ali Riza Pasa and the Photographic Unit of the Imperial School of Engineering also contributed numerous images.  The images show students and educational facilities, including law, medical and military schools; well-equipped army and navy personnel and facilities; technologically advanced lifesaving and fire fighting brigades; factories; mines; harbors; hospitals; and government buildings. The collection also documents historic Byzantine and Ottoman monuments, mosques, mosaics, fountains, palaces, and mausoleums, and includes panoramic landscapes and urban scenes. Other photographs depict Abdul Hamid's Yildiz Palace, yacht, and horses. </dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">photograph albums</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">group portraits</dc:type>
+		<dc:type xml:lang="en">cityscapes</dc:type>
+		<dc:type xml:lang="en">albumen prints</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1880-1900</dc:coverage>
+		<dc:coverage xml:lang="en">Turkey</dc:coverage>
+		<dc:coverage xml:lang="en">Greece</dc:coverage>
+		<dc:coverage xml:lang="en">Middle East</dc:coverage>
+		<dc:subject xml:lang="en">Abdülhamid II, Sultan of the Turks, 1842-1918</dc:subject>
+		<dc:subject xml:lang="en">Government facilities--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Educational facilities--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Military facilities--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Lifesaving--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Students--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Mosaics--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Fountains--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Tombs &amp; sepulchral monuments--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Horses--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Mosques--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Castles &amp; palaces--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Hospitals--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Ships--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Fire fighting--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Forts &amp; fortifications--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">City walls--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Yachts--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Factories--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Navies--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Military life--Turkey--1880-1900.</dc:subject>
+		<dc:subject xml:lang="en">Turkey--History--Ottoman Empire, 1288-1918.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints and Photographs Division</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/ahiihtml/ahiiabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>anedub</setSpec>
+        <setName>African American Photographs Assembled for 1900 Paris Exhibition</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of African American Photographs Assembled for 1900 Paris Exhibition, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Full collection includes roughly 1900 photos gathered for use in the American Negro Exhibit at the Paris Exposition, consisting of portraits and scenes of education, work, and daily life.   As of early 2005, roughly 500 have been digitized, cataloged, and records made available for harvesting.  Collection includes more than 360 photos presented by W.E.B. Du Bois.  The Paris Exposition of 1900 (Exposition universelle internationale de 1900) devoted a building to matters of "social economy." The United States section of the building featured an exhibit that, according to W. E. B. Du Bois, attempted to show "(a) The history of the American Negro. (b) His present condition. (c) His education. (d) His literature."</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">gelatin silver prints</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1900</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Georgia</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Tennessee</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Virginia</dc:coverage>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington</dc:coverage>
+		<dc:subject xml:lang="en">Askew, Thomas, 1850?-1914, photographer</dc:subject>
+		<dc:subject xml:lang="en">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963, collector</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/anedubhtml/anedubabt.html</dc:relation>
+		<dc:rights>http://lcweb2.loc.gov/pp/anedubhtml/anedubres.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lhbtnbib</setSpec>
+        <setName>American Notes: Travels in America (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">American Notes: Travels in America, 1750-1920</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>253 published narratives by Americans and foreign visitors recounting their travels in the colonies and the United States and their observations and opinions about American peoples, places, and society from about 1750 to 1920. Also included is the thirty-two-volume set of manuscript sources entitled Early Western Travels, 1748-1846, published between 1904 and 1907 after diligent compilation by the distinguished historian and secretary of the Wisconsin Historical Society Reuben Gold Thwaites. Although many of the authors represented in American Notes are not widely known, the collection includes works by major figures such as Matthew Arnold, Fredrika Bremer, William Cullen Bryant, François-René de Chateaubriand, William Cobbett, James Fenimore Cooper, J. Hector St. John de Crèvecoeur, Charles Dickens, Washington Irving, Benjamin Henry Latrobe, Sir Charles Lyell, William Lyon Mackenzie, André Michaux, Thomas Nuttall, Frederick Law Olmsted, and Robert Louis Stevenson. The narratives in American Notes therefore range from the unjustly neglected to the justly famous, and from classics of the genre to undiscovered gems. Together, they build a mosaic portrait of a young nation.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1750-1920</dc:coverage>
+		<dc:subject xml:lang="en">Description and travel.</dc:subject>
+		<dc:subject xml:lang="en">Thwaites, Reuben Gold, 1853-1913.</dc:subject>
+		<dc:subject xml:lang="en">United States--Description and travel.</dc:subject>
+		<dc:subject xml:lang="en">United States--History.</dc:subject>
+		<dc:subject xml:lang="en">United States--Social life and customs.</dc:subject>
+		<dc:subject xml:lang="en">United States--Social conditions.</dc:subject>
+		<dc:subject xml:lang="en">Indians of North America.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, General Collections</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/lhtnhtml/</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>manz</setSpec>
+        <setName>Ansel Adams&amp;apos;s Photographs of Japanese-American Internment at Manzanar</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for &quot;Suffering Under a Great Injustice&quot; Ansel Adams&apos;s Photographs of Japanese-American Internment at Manzanar</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>In 1943, Ansel Adams (1902-1984), America's best-known photographer, documented the Manzanar War Relocation Center in California and the Japanese Americans interned there during World War II.  Although a majority of the photographs are portraits, the images also include views of daily life, agricultural scenes, and sports and leisure activities.  Collection online through American Memory [http://memory.loc.gov/].</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">Manzanar War Relocation Center</dc:coverage>
+		<dc:coverage xml:lang="en">United States -- California -- Manzanar</dc:coverage>
+		<dc:coverage xml:lang="en">1943</dc:coverage>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Adams, Ansel, 1902-, photographer.</dc:subject>
+		<dc:subject xml:lang="en">World War, 1939-1945--Japanese Americans--California--Manzanar.</dc:subject>
+		<dc:subject xml:lang="en">Manzanar War Relocation Center--Facilities--1940-1950.</dc:subject>
+		<dc:subject xml:lang="en">Photography, Artistic.</dc:subject>
+		<dc:subject xml:lang="en">Japanese Americans--Evacuation and relocation, 1942-1945.</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/aamhtml/aamhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>awkbbib</setSpec>
+        <setName>Atlantic World: America and the Netherlands (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Atlantic World: America and the Netherlands (books only)</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Books from the Library of Congress collections digitized for Atlantic World: America and the Netherlands, a collaborative, bilingual digital library assembled by the Library of Congress and the Koninklijke Bibliotheek (KB), the National Library of the Netherlands.   The KB has enlisted the cooperation of other leading Dutch libraries, museums, and archives.  Eventually, the Atlantic World will explore the history of the Dutch presence in America and the interactions between the United States and the Netherlands from Henry Hudson's 1609 voyage to the post-World-War-II period.   The initial phase focuses on the period 1609-1664.</dc:description>
+		<dc:description>Set characteristics for awkbbib:  Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   dct:accrualPolicy: Partial (selection for new topical areas is by LC subject specialists in conjunction with KB).  Contains about 47 records.  Records in set awkbbib are also in set lcbooks.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1609-1664</dc:coverage>
+		<dc:coverage xml:lang="en">New York</dc:coverage>
+		<dc:subject xml:lang="en">United States--Relations--Netherlands.</dc:subject>
+		<dc:subject xml:lang="en">Netherlands--Relations--United States.</dc:subject>
+		<dc:subject xml:lang="en">Dutch--United States.</dc:subject>
+		<dc:subject xml:lang="en">New York (State)--History--Colonial period, ca. 1600-1775.</dc:subject>
+		<dc:subject xml:lang="en">New York (State)--Description and travel.</dc:subject>
+		<dc:subject xml:lang="en">Voyages and travels</dc:subject>
+		<dc:subject xml:lang="en">Indians of North America--New York (State)</dc:subject>
+		<dc:subject xml:lang="en">Hudson, Henry,--d. 1611.</dc:subject>
+		<dc:subject xml:lang="en">Donck, Adriaen van der, 1620-1655.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress</dc:contributor>
+		<dc:rights xml:lang="en"></dc:rights>
+		<dc:relation xml:lang="en">http://memory.loc.gov/intldl/awkbhtml/awkbhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>ggbain</setSpec>
+        <setName>Bain Collection (photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for George Grantham Bain Collection (photographs), digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>These records are for digitized images from the photographic files of one of America's earliest news picture agencies. The collection richly documents sports events, theater, celebrities, crime, strikes, disasters, political activities including the woman suffrage campaign, conventions and public celebrations. The photographs Bain produced and gathered for distribution through his news service were worldwide in their coverage, but there was a special emphasis on life in New York City. The bulk of the collection dates from the 1900s to the mid-1920s, but scattered images can be found as early as the 1860s and as late as the 1930s.  As of late 2004, approximately 11,000 glass negatives and 1,300 photographic prints for which copy negatives exist are available online.  More images will be digitized and records added.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">glass negatives</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1890-1925</dc:coverage>
+		<dc:coverage xml:lang="en">United States--New York</dc:coverage>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Virginia</dc:coverage>
+		<dc:subject xml:lang="en">Bain, George Grantham, 1865-1944.</dc:subject>
+		<dc:subject xml:lang="en">Portrait photographs</dc:subject>
+		<dc:subject xml:lang="en">Group portraits</dc:subject>
+		<dc:subject xml:lang="en">Glass negatives</dc:subject>
+		<dc:subject xml:lang="en">Titanic (Steamship)--Disasters--1910-1920.</dc:subject>
+		<dc:subject xml:lang="en">Boxers (Sports)--1890-1920.</dc:subject>
+		<dc:subject xml:lang="en">Strikes--United States--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Chinatown (New York, N.Y.)--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Ellis Island Immigration Station (N.Y. and N.J.)--1900-1930.</dc:subject>
+		<dc:subject xml:lang="en">Anarchists</dc:subject>
+		<dc:subject xml:lang="en">Socialists</dc:subject>
+		<dc:subject xml:lang="en">Aeronautics</dc:subject>
+		<dc:subject xml:lang="en">Wright brothers</dc:subject>
+		<dc:subject xml:lang="en">Children</dc:subject>
+		<dc:subject xml:lang="en">Crowds</dc:subject>
+		<dc:subject xml:lang="en">Women</dc:subject>
+		<dc:subject xml:lang="en">Aeronautics</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/ggbainhtml/ggbainabt.html</dc:relation>
+		<dc:rights>http://www.loc.gov/rr/print/res/274_bain.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>brhc</setSpec>
+        <setName>Brady-Handy Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of glass negatives from the Brady-Handy Collection, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>The glass negatives in this collection were purchased by the Library of Congress in 1954 from the daughters of Levin Corbin Handy.  Handy was the nephew of photographer Mathew Brady.  He was apprenticed to his uncle at the age of twelve and later became an independent photographer.  Toward the end of his life, Brady worked out of Handy's studio and Handy inherited the photography files still owned by Brady at the time of his death.  The majority of the Brady-Handy negatives are of Civil War and post-Civil War portraits, with a small collection of Washington views.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">glass negatives</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1855-1910</dc:coverage>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington (D.C.)</dc:coverage>
+		<dc:subject xml:lang="en">Brady, Mathew B. 1823 (ca.)-1896, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Handy, Levin C. (Levin Corbin), 1855-1932, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Cruikshank, William, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/brhchtml/brhcabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>calbkbib</setSpec>
+        <setName>California As I Saw It (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for California As I Saw It (books)</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Transcribed text with illustrations of 186 works documenting the formative era of California's history through eyewitness accounts. The collection covers the dramatic decades between the Gold Rush and the turn of the twentieth century. It captures the pioneer experience; encounters between Anglo-Americans and the diverse peoples who had preceded them; the transformation of the land by mining, ranching, agriculture, and urban development; the often-turbulent growth of communities and cities; and California's emergence as both a state and a place of uniquely American dreams.</dc:description>
+		<dc:description>Set characteristics for calbkbib:  Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   dct:accrualPolicy: Closed.  Contains about 200 records.  Records in set calbkbib are also in set lcbooks.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1849-1900</dc:coverage>
+		<dc:coverage xml:lang="en">California</dc:coverage>
+		<dc:subject xml:lang="en">Ethnic groups--California.</dc:subject>
+		<dc:subject xml:lang="en">Law and politics--California.</dc:subject>
+		<dc:subject xml:lang="en">California--History.</dc:subject>
+		<dc:subject xml:lang="en">California--Biography.</dc:subject>
+		<dc:subject xml:lang="en">California--Gold discoveries.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, General Collections</dc:contributor>
+		<dc:rights xml:lang="en">http://memory.loc.gov/ammem/cbhtml/cbres.html</dc:rights>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/cbhtml/cbhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>ffcarp</setSpec>
+        <setName>Carpenter (Frank and Frances) collection (photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for photographs in the Frank and Frances Carpenter Collection digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Photographs collected by journalist Frank G. Carpenter (1855-1924) to illustrate publications on travel and geography. Many of the images dating between 1910 and 1924 were taken by Carpenter or his daughter, Frances and later captioned and assembled in albums. The remainder of the photographs were acquired by the Carpenters primarily from commercial sources.  Travel views of Africa, Asia, Europe, and North and South America, with additional locations in the Middle East, Mexico, Central America and some areas of the Caribbean.  Many of the images show people, illustrating occupations, clothing, customs, and daily life. Other topics depicted include architecture, agriculture, commerce, education, housing, industry, transportation, archaeological sites, monuments, and street scenes.  A selection of about 1,600 images were online in early 2005.  This selection includes over 900 photographs of Alaska.  Additional records and images will be added.
+</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1880-1940</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Alaska</dc:coverage>
+		<dc:coverage xml:lang="en">Canada</dc:coverage>
+		<dc:coverage xml:lang="en">Mexico</dc:coverage>
+		<dc:coverage xml:lang="en">Egypt</dc:coverage>
+		<dc:coverage xml:lang="en">Russia</dc:coverage>
+		<dc:subject xml:lang="en">Carpenter, Frank G. (Frank George), 1855-1924, photographer, collector.</dc:subject>
+		<dc:subject xml:lang="en">Gelatin silver prints--1890-1950.</dc:subject>
+		<dc:subject xml:lang="en">Photomechanical prints--1890-1950.</dc:subject>
+		<dc:subject xml:lang="en">Indians of North America</dc:subject>
+		<dc:subject xml:lang="en">Houses</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints and Photographs Division</dc:contributor>
+		<dc:rights xml:lang="en">http://www.loc.gov/rr/print/res/276_carp.html</dc:rights>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/carphtml/carpabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>app</setSpec>
+        <setName>Cartoon Prints, American, 1766-1876</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of American Cartoon Prints, digitized by the Library of Congress</dc:title>
+		<dc:creator xml:lang="en">Library of Congress</dc:creator>
+		<dc:description xml:lang="en">More than 500 prints made in America during the eighteenth and nineteenth centuries, encompassing several forms of political art.  All of the prints meet two criteria: they were originally designed to express sentiments relating to civic life and government in the United States and they were individually issued prints.   A published catalog of the prints was published in 1991:  American Political Prints, 1766-1876: A Catalog of the Collections in the Library of Congress (Boston: G.K. Hall &amp; Co., 1991)</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">prints</dc:type>
+		<dc:type xml:lang="en">political cartoons</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1766-1876</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">Political cartoons</dc:subject>
+		<dc:subject xml:lang="en">Caricatures</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/pp/apphtml/appabt.html</dc:relation>
+		<dc:rights xml:lang="en">All of the material in this collection was published before 1923 and is considered to be in the public domain.</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>cpbr</setSpec>
+        <setName>Cartoon Prints, British (bulk 1780-1830)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">
+Records for British cartoon prints digitized by the Library of Congress
+</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>
+Cartoon prints from Great Britain, from ca. 1650 through 1850, with the bulk in the range 1780-1820.  Specific media forms represented include etchings, engravings, mezzotints, aquatints, and lithographs. Many are hand-colored.
+Among the artists represented are: Henry William Bunbury, George and Isaac Cruikshank, Matthew Darly, William Dent, Robert Dighton, James Gillray, Richard Newton, John Nixon, Thomas Rowlandson, Robert Sayer, and George M. Woodward.  A selection of about 600 images were online in early 2005.  Additional records and images will be added.
+</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">portrait prints</dc:type>
+		<dc:type xml:lang="en">caricatures</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1650-1850</dc:coverage>
+		<dc:coverage xml:lang="en">Great Britain</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">Britannia (Symbolic character)</dc:subject>
+		<dc:subject xml:lang="en">John Bull (Symbolic character)</dc:subject>
+		<dc:subject xml:lang="en">Great Britain--History.</dc:subject>
+		<dc:subject xml:lang="en">United States--History--Revolution, 1775-1783.</dc:subject>
+		<dc:subject xml:lang="en">Portrait prints--1650-1850.</dc:subject>
+		<dc:subject xml:lang="en">Caricatures--British--1650-1850.</dc:subject>
+		<dc:subject xml:lang="en">Satires (Visual works)--British--1650-1850.</dc:subject>
+		<dc:subject xml:lang="en">Planographic prints--British--1780-1850.</dc:subject>
+		<dc:subject xml:lang="en">Intaglio prints--British--1650-1850.</dc:subject>
+		<dc:subject xml:lang="en"/>
+		<dc:subject xml:lang="en"/>
+		<dc:subject xml:lang="en"/>
+		<dc:subject xml:lang="en"/>
+		<dc:contributor xml:lang="en">
+Library of Congress, Prints and Photographs Division
+</dc:contributor>
+		<dc:rights xml:lang="en">http://www.loc.gov/rr/print/res/450_brit.html</dc:rights>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/cpbrhtml/cpbrabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>cwp</setSpec>
+        <setName>Civil War Photographs</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of Civil War Photographs, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Civil War Photographs provides online access to about 7,000 different images made during the American Civil War (1861-1865) and in its immediate aftermath. The images were scanned from the Prints and Photographs Division's collection of original glass plate negatives and from copy negatives made from photographic prints the Division holds. The original images were acquired from various sources.  Images depict military personnel and facilities, primarily from a Union perspective. Includes the main Eastern theater, the federal navy and seaborne expeditions against the Atlantic Coast of the Confederacy, the war in the West, Washington, D.C., African Americans, fortifications, battlefields, preparations for battle and the aftermath of battle. Also, many portraits of officers and enlisted men, and of federal and confederate government members, including Abraham Lincoln and his assassins.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">glass negatives</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">stereographs</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1861-1865</dc:coverage>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington (D.C.)</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Maryland</dc:coverage>
+		<dc:coverage xml:lang="en">United States--South Carolina</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Tennessee</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Pennsylvania</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Virginia</dc:coverage>
+		<dc:subject xml:lang="en">Brady, Mathew B. 1823 (ca.)-1896, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Barnard, George N., 1819-1902, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Gardner, Alexander, 1821-1882, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Gibson, James F., b. 1828, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Gardner, Alexander, 1821-1882, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Gibson, James F., b. 1828, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Smith, William Morris, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Battlefields--United States--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">Forts &amp; fortifications--United States--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">Military officers--United States--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">United States--History--Civil War, 1861-1865.</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/cwphtml/cwpabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>fsac</setSpec>
+        <setName>Color Photographs from the FSA-OWI, 1939-1945</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Farm Security Administration Color Phootgraphs, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Between 1939 and 1944, government photography units within the Farm Security Administration (FSA) and later the Office of War Information (OWI) produced the approximately 1,600 color photographs in this collection.  Most of the 644 color photographs produced by the FSA are 35mm Kodachrome slides; a few are color transparencies in sizes up to 4x5-inches. The FSA color photographs depict life in the United States, including Puerto Rico and the Virgin Islands, with a focus on rural areas and farm labor. The 965 color photographs from the OWI are color transparencies in sizes up to 4x5-inches. The photographs depicted life and culture in the U.S., with a focus on factories and women employees, railroads, aviation training, and other aspects of World War II mobilization.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">landscape photographs</dc:type>
+		<dc:type xml:lang="en">film transparencies--color</dc:type>
+		<dc:type xml:lang="en">slides--color</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1939-1944</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">United States. Farm Security Administration.</dc:subject>
+		<dc:subject xml:lang="en">Landscape photographs</dc:subject>
+		<dc:subject xml:lang="en">Group portraits</dc:subject>
+		<dc:subject xml:lang="en">United States. Office of War Information.</dc:subject>
+		<dc:subject xml:lang="en">Tennessee Valley Authority--1930-1940.</dc:subject>
+		<dc:subject xml:lang="en">Aeronautics--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">African Americans--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Agriculture--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Assembly-line methods--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Children--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Civil engineering--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Civil service--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Country life--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Depressions--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Dwellings--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Fairs--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Farm relief--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Farms--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Forestry--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Historic sites--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Industrial facilities--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Mining--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Mountains--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">National security--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Railroads--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Shipping--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Transportation--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">Women--Employment--United States--1930-1950.</dc:subject>
+		<dc:subject xml:lang="en">World War, 1939-1945.</dc:subject>
+		<dc:subject xml:lang="en"> Dust Bowl Era, 1931-1939.</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/fsacabt.html</dc:relation>
+		<dc:rights>http://www.loc.gov/rr/print/res/072_fsac.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>ecur</setSpec>
+        <setName>Curtis (Edward S.) Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Curtis (Edward S.) Collection of photographs, digitized by the Library of Congress</dc:title>
+		<dc:publisher>Library of Congress</dc:publisher>
+		<dc:creator>Curtis, Edward S.,--1868-1952.</dc:creator>
+		<dc:description>Over 950 photographic prints from 1890-1929 of Native Americans in the Pacific Northwest, New Southwest, Great Basin, Great Plains, Plateau Region, California, and Alaska. Features studio and field photographs.   About two-thirds of the Curtis photographs at the Library of Congress images were not published in Curtis's multi-volume work, The North American Indian. The collection includes a large number of individual or group portraits, as well as traditional and ceremonial dress, dwellings and other structures, agriculture, arts and crafts, rites and ceremonies, dances, games, food preparation, transportation, and scenery.  Records will be added over time.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">Portrait photographs</dc:type>
+		<dc:type xml:lang="en">Landscape photographs</dc:type>
+		<dc:coverage xml:lang="en">1890-1929</dc:coverage>
+		<dc:coverage xml:lang="en">Pacific Northwest</dc:coverage>
+		<dc:coverage xml:lang="en">New Southwest</dc:coverage>
+		<dc:coverage xml:lang="en">Great Basin</dc:coverage>
+		<dc:coverage xml:lang="en">Great Plains</dc:coverage>
+		<dc:coverage xml:lang="en">Plateau Region</dc:coverage>
+		<dc:coverage xml:lang="en">California</dc:coverage>
+		<dc:coverage xml:lang="en">Alaska</dc:coverage>
+		<dc:coverage xml:lang="en">Western United States</dc:coverage>
+		<dc:subject xml:lang="en">Apache Indians</dc:subject>
+		<dc:subject xml:lang="en">Arikara Indians</dc:subject>
+		<dc:subject xml:lang="en">Apsaroke Indians</dc:subject>
+		<dc:subject xml:lang="en">Arapaho Indians</dc:subject>
+		<dc:subject xml:lang="en">Acoma Indians</dc:subject>
+		<dc:subject xml:lang="en">Achomawi Indians</dc:subject>
+		<dc:subject xml:lang="en">Assiniboine Indians</dc:subject>
+		<dc:subject xml:lang="en">Atsina Indians</dc:subject>
+		<dc:subject xml:lang="en">Brulé Indians</dc:subject>
+		<dc:subject xml:lang="en">Cahuilla Indians</dc:subject>
+		<dc:subject xml:lang="en">Chemehuevi Indians</dc:subject>
+		<dc:subject xml:lang="en">Cheyenne Indians</dc:subject>
+		<dc:subject xml:lang="en">Chinook Indians</dc:subject>
+		<dc:subject xml:lang="en">Chimakum Indians</dc:subject>
+		<dc:subject xml:lang="en">Clayoquot Indians</dc:subject>
+		<dc:subject xml:lang="en">Cowichan Indians</dc:subject>
+		<dc:subject xml:lang="en">Cree Indians</dc:subject>
+		<dc:subject xml:lang="en">Crow Indians</dc:subject>
+		<dc:subject xml:lang="en">Cupeño Indians</dc:subject>
+		<dc:subject xml:lang="en">Dakota Indians</dc:subject>
+		<dc:subject xml:lang="en">Eskimos</dc:subject>
+		<dc:subject xml:lang="en">Haulapai Indians</dc:subject>
+		<dc:subject xml:lang="en">Havasupai Indians</dc:subject>
+		<dc:subject xml:lang="en">Hopi Indians</dc:subject>
+		<dc:subject xml:lang="en">Hupa Indians</dc:subject>
+		<dc:subject xml:lang="en">Jicarilla Indians</dc:subject>
+		<dc:subject xml:lang="en">Kainah Indians</dc:subject>
+		<dc:subject xml:lang="en">Kalispel Indians</dc:subject>
+		<dc:subject xml:lang="en">Karok Indians</dc:subject>
+		<dc:subject xml:lang="en">Klamath Indians</dc:subject>
+		<dc:subject xml:lang="en">Kutenai Indians</dc:subject>
+		<dc:subject xml:lang="en">Kwakiutl Indians</dc:subject>
+		<dc:subject xml:lang="en">Mandan Indians</dc:subject>
+		<dc:subject xml:lang="en">Maricopa Indians</dc:subject>
+		<dc:subject xml:lang="en">Mohave Indians</dc:subject>
+		<dc:subject xml:lang="en">Navajo Indians</dc:subject>
+		<dc:subject xml:lang="en">Nespelim Indians</dc:subject>
+		<dc:subject xml:lang="en">Nez Percé Indians</dc:subject>
+		<dc:subject xml:lang="en">Nootka Indians</dc:subject>
+		<dc:subject xml:lang="en">Northern Paiute Indians</dc:subject>
+		<dc:subject xml:lang="en">Nootka Indians</dc:subject>
+		<dc:subject xml:lang="en">Oglala Indians</dc:subject>
+		<dc:subject xml:lang="en">Piegan Indians</dc:subject>
+		<dc:subject xml:lang="en">Pima Indians</dc:subject>
+		<dc:subject xml:lang="en">Pomo Indians</dc:subject>
+		<dc:subject xml:lang="en">Pueblo Indians</dc:subject>
+		<dc:subject xml:lang="en">Qahatika Indians</dc:subject>
+		<dc:subject xml:lang="en">Quinault Indians</dc:subject>
+		<dc:subject xml:lang="en">Salish Indians</dc:subject>
+		<dc:subject xml:lang="en">Sarsi Indians</dc:subject>
+		<dc:subject xml:lang="en">Siksika Indians</dc:subject>
+		<dc:subject xml:lang="en">Sioux Indians</dc:subject>
+		<dc:subject xml:lang="en">Spokane Indians</dc:subject>
+		<dc:subject xml:lang="en">Teton Indians</dc:subject>
+		<dc:subject xml:lang="en">Taos Indians</dc:subject>
+		<dc:subject xml:lang="en">Tewa Indians</dc:subject>
+		<dc:subject xml:lang="en">Tlakluit Indians</dc:subject>
+		<dc:subject xml:lang="en">Tohono O'Odham Indians</dc:subject>
+		<dc:subject xml:lang="en">Tolowa Indians</dc:subject>
+		<dc:subject xml:lang="en">Twana Indians</dc:subject>
+		<dc:subject xml:lang="en">Umatilla Indians</dc:subject>
+		<dc:subject xml:lang="en">Wichita Indians</dc:subject>
+		<dc:subject xml:lang="en">Yakama Indians</dc:subject>
+		<dc:subject xml:lang="en">Yaqui Indians</dc:subject>
+		<dc:subject xml:lang="en">Yokuts Indians</dc:subject>
+		<dc:subject xml:lang="en">Yuki Indians</dc:subject>
+		<dc:subject xml:lang="en">Yurok Indians</dc:subject>
+		<dc:subject xml:lang="en">Zuni Indians</dc:subject>
+		<dc:subject xml:lang="en">Canoes</dc:subject>
+		<dc:subject xml:lang="en">Tipis</dc:subject>
+		<dc:subject xml:lang="en">Tribal chiefs</dc:subject>
+		<dc:subject xml:lang="en">Pueblos</dc:subject>
+		<dc:subject xml:lang="en">Rites &amp; ceremonies</dc:subject>
+		<dc:subject xml:lang="en">Portrait photographs</dc:subject>
+		<dc:subject xml:lang="en">Landscape photographs</dc:subject>
+		<dc:subject xml:lang="en">Clothing &amp; dress</dc:subject>
+		<dc:subject xml:lang="en">Fishing</dc:subject>
+		<dc:subject xml:lang="en">Cradleboards</dc:subject>
+		<dc:subject xml:lang="en">Ceremonial dancers</dc:subject>
+		<dc:subject xml:lang="en">Tipis</dc:subject>
+		<dc:subject xml:lang="en">Indians of North America</dc:subject>
+		<dc:subject xml:lang="en">Curtis, Edward S.,--1868-1952.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints &amp; Photographs Division</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/ecurhtml/ecurabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>dag</setSpec>
+        <setName>Daguerreotypes</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for America's First Look into the Camera: Daguerreotype Portraits and Views, 1839-1864</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>The Library's daguerreotype collection (presented online through American Memory) consists of almost 750 photographs dating from 1839 to 1864.   Most have been digitized.  Portrait daguerreotypes produced by the Mathew Brady studio make up the major portion of the collection. The collection also includes early architectural views by John Plumbe, several Philadelphia street scenes, early portraits by pioneering daguerreotypist Robert Cornelius, studio portraits by black photographers James P. Ball and Francis Grice, and copies of painted portraits.</dc:description>
+		<dc:description xml:lang="en">Set characteristics for dag: Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.    Subject terms from LC Thesaurus for Graphic Materials I (lctgm).  Genre terms from LC Thesaurus for Graphic Materials II (gmgpc).   DCCDAccrualPolicy: Active.  DCCDAccrualPeriodicity: Completely irregular.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">daguerreotype</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">United States--Pennsylvania--Philadelphia</dc:coverage>
+		<dc:coverage xml:lang="en">1839-1864</dc:coverage>
+		<dc:subject xml:lang="en">Brady, Mathew B., 1823 (ca.)-1896.</dc:subject>
+		<dc:subject xml:lang="en">Anson, Rufus, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Cornelius, Robert, 1809-1893, photograper.</dc:subject>
+		<dc:subject xml:lang="en">Washington, Augustus, b. 1820, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Daguerreotypes</dc:subject>
+		<dc:subject xml:lang="en">Portrait photographs</dc:subject>
+		<dc:subject xml:lang="en">Group portraits</dc:subject>
+		<dc:subject xml:lang="en">Buildings</dc:subject>
+		<dc:subject xml:lang="en">American Colonization Society--People--1840-1850</dc:subject>
+		<dc:subject xml:lang="en">Government officials--Liberia--1840-1860</dc:subject>
+		<dc:subject xml:lang="en">Artists</dc:subject>
+		<dc:subject xml:lang="en">Entertainers</dc:subject>
+		<dc:subject xml:lang="en">Journalists</dc:subject>
+		<dc:subject xml:lang="en">Politicians</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/daghtml/</dc:relation>
+		<dc:rights xml:lang="en">http://lcweb2.loc.gov/ammem/daghtml/dagres.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>fenton</setSpec>
+        <setName>Fenton Crimean War Photographs</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for photographs from Roger Fenton Crimean War photograph collection digitized by the Library of Congress</dc:title>
+		<dc:publisher>Library of Congress</dc:publisher>
+		<dc:creator xml:lang="en">Fenton, Roger, 1819-1869, photographer.</dc:creator>
+		<dc:description>Collection comprises 263 photographic prints, mainly portrait photographs of British, French, and Turkish military personnel, including a nurse attached to the French troops, and portraits of the leaders of the allied forces, Lord Raglan, Maréchal Pélissier, and Ömer Lûtfi Pacha, as well as two portraits of Fenton dressed as a Zouave, self-portraits or possibly taken by Marcus Sparling, and views of cavalry and artillery camps, a mortar battery, a cemetery, views of buildings, the harbor, and ships at Balaklava, the plains between Balaklava and Sevastopol, and distant views of Sevastopol.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">Portrait photographs</dc:type>
+		<dc:type xml:lang="en">Self-portraits</dc:type>
+		<dc:type xml:lang="en">Group portraits</dc:type>
+		<dc:type xml:lang="en">Salted paper prints</dc:type>
+		<dc:type xml:lang="en">Albumen prints</dc:type>
+		<dc:coverage xml:lang="en">1855</dc:coverage>
+		<dc:coverage xml:lang="en">Ukraine--Crimea</dc:coverage>
+		<dc:coverage xml:lang="en">Ukraine--Balaklava</dc:coverage>
+		<dc:subject xml:lang="en">Fenton, Roger, 1819-1869 --Journeys--Ukraine--Crimea.</dc:subject>
+		<dc:subject xml:lang="en">Raglan, FitzRoy James Henry Somerset, Baron, 1788-1855 --Military service.</dc:subject>
+		<dc:subject xml:lang="en">Pélissier, Aimable-Jean-Jacques, duc de Malakoff, 1794-1864 --Military service.</dc:subject>
+		<dc:subject xml:lang="en">Crimean War, 1853-1856.</dc:subject>
+		<dc:subject xml:lang="en">Military personnel</dc:subject>
+		<dc:subject xml:lang="en">Military life</dc:subject>
+		<dc:subject xml:lang="en">Tents</dc:subject>
+		<dc:subject xml:lang="en">City &amp; town life</dc:subject>
+		<dc:subject xml:lang="en">Buildings</dc:subject>
+		<dc:subject xml:lang="en">Balaklava </dc:subject>
+		<dc:subject xml:lang="en">Sevastopol (Ukraine)--History--Siege, 1854-1855.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints &amp; Photographs Division</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/ftncnwhtml/ftncnwabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>jpd</setSpec>
+        <setName>Fine Prints, Japanese, pre-1915</setName>
+        <!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Caroline Arms (Library of Congress) -->
+<setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of pre-1915 Japanese Fine Prints, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Japanese woodblock prints and drawings, dating from the seventeenth to the twentieth centuries, by such artists as Hiroshige, Kuniyoshi, Sadahide, and Yoshiiku. Subjects include actors, women, landscapes, scenes from Japanese literature and daily life, and Western foreigners. Many schools and traditions are represented, but primary strengths include the Japanese art forms known as Ukiyo-e, translated as "pictures of the floating (or sorrowful) world"; and Yokohama-e, literally "pictures of Yokohama."   The Library acquired its Japanese woodblock print holdings from a host of different donors and collectors including Supreme Court Justice Oliver Wendell Holmes, President William Howard Taft, Crosby Stuart Noyes, and Emily Crane Chadbourne.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">woodcuts</dc:type>
+		<dc:type xml:lang="en">prints</dc:type>
+		<dc:type xml:lang="en">portraits</dc:type>
+		<dc:type xml:lang="en">landscapes</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1850-1890</dc:coverage>
+		<dc:coverage xml:lang="en">Japan--Tokyo</dc:coverage>
+		<dc:coverage xml:lang="en">Japan--Yokohama</dc:coverage>
+		<dc:coverage xml:lang="en">Japan</dc:coverage>
+		<dc:subject xml:lang="en">Performances</dc:subject>
+		<dc:subject xml:lang="en">Actors--Japanese</dc:subject>
+		<dc:subject xml:lang="en">Foreign vistors--Japan</dc:subject>
+		<dc:subject xml:lang="en">Clothing &amp; dress</dc:subject>
+		<dc:subject xml:lang="en">Americans--Japan--1850-1890</dc:subject>
+		<dc:subject xml:lang="en">Europeans--Japan--1850-1890</dc:subject>
+		<dc:subject xml:lang="en">Transportation</dc:subject>
+		<dc:subject xml:lang="en">Prints</dc:subject>
+		<dc:subject xml:lang="en">Woodcuts</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/jpdhtml/jpdabt.html</dc:relation>
+		<dc:rights>Any known restrictions on works in this collection noted in individual records.</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>ascfrbib</setSpec>
+        <setName>France in America (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for France in America (books only)</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Books from the Library of Congress collections digitized for France in America, a collaborative, bilingual digital library assembled by the Library of Congress and the Bibliothèque national de France.   To date, the collaborative project illuminates two major themes in the history of relations between France and the United States: the role played by France in the exploration and settlement of the continent and its participation in several events which indelibly marked the history of the United States: the French and Indian War, the American Revolution, and the Louisiana Purchase.  Includes books written by French explorers, missionaries, military officers and others who charted new routes or traveled across the Atlantic Ocean and across the North American continent, established early French settlements, negotiated alliances with Native tribes, and participated in the American War of Independence.  Rare works include an account of France&apos;s attempted settlement at Rio de Janeiro (1557), Samuel de Champlain&apos;s account of his voyage to Canada (1613), and a peace treaty between the King of France and the Indians of Canada (1667).  </dc:description>
+		<dc:description>Set characteristics for ascfrbib:  Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   dct:accrualPolicy: Partial (selection for new topical areas is by LC subject specialists in conjunction with BnF).  Contains about 80 records.  Records in set ascfrbib are also in set lcbooks.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1500-1804</dc:coverage>
+		<dc:coverage xml:lang="en">Louisiana</dc:coverage>
+		<dc:coverage xml:lang="en">Mississippi River Valley</dc:coverage>
+		<dc:coverage xml:lang="en">Illinois</dc:coverage>
+		<dc:coverage xml:lang="en">Louisiana</dc:coverage>
+		<dc:coverage xml:lang="en">Florida</dc:coverage>
+		<dc:subject xml:lang="en">United States--History--French and Indian War, 1755-1763.</dc:subject>
+		<dc:subject xml:lang="en">Louisiana--Discovery and exploration.</dc:subject>
+		<dc:subject xml:lang="en">Indians of North America--Mississippi River Valley</dc:subject>
+		<dc:subject xml:lang="en">Northwest, Old--History.</dc:subject>
+		<dc:subject xml:lang="en">La Salle, Robert Cavelier,--sieur de,--1643-1687.</dc:subject>
+		<dc:subject xml:lang="en">Florida--History</dc:subject>
+		<dc:subject xml:lang="en">America--Discovery and exploration--French</dc:subject>
+		<dc:subject xml:lang="en">New France--Discovery and exploration.</dc:subject>
+		<dc:subject xml:lang="en">Champlain, Samuel de, 1567?-1635</dc:subject>
+		<dc:subject xml:lang="en">Cartier, Jacques, 1491-1557</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress</dc:contributor>
+		<dc:rights xml:lang="en">http://international.loc.gov/cgi-bin/ammemrr.pl?title=%3ca+href%3d%22%2fintldl%2ffiahtml%2ffiahome.html%22%3eFrance+in+America%3c%2fa%3e&amp;coll=ascfrbib&amp;dir=intldl
+</dc:rights>
+		<dc:relation xml:lang="en">http://international.loc.gov/intldl/fiahtml/fiahome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>gottscho</setSpec>
+        <setName>Gottscho-Schleisner Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Architecture and Interior Design for 20th Century America: Photographs by Samuel Gottscho and William Schleisner, 1935-1955</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>The Gottscho-Schleisner Collection is comprised of over 29,000 images primarily of architectural subjects, including interiors and exteriors of homes, stores, offices, factories, historic buildings, and other structures. Subjects are concentrated chiefly in the northeastern United States, especially the New York City area, and Florida. Included are the homes of notable Americans, such as Raymond Loewy, and of several U.S. presidents, as well as color images of the 1939-40 New York World&apos;s Fair. Many of the photographs were commissioned by architects, designers, owners and architectural publications, and document important achievements in American 20th-century architecture and interior design.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington (D.C.)</dc:coverage>
+		<dc:coverage xml:lang="en">United States -- Florida</dc:coverage>
+		<dc:coverage xml:lang="en">1943</dc:coverage>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Gottscho, Samuel H. (Samuel Herman), 1875-1971</dc:subject>
+		<dc:subject xml:lang="en">Schleisner, William H. (William Herman), 1912-1962</dc:subject>
+		<dc:subject xml:lang="en">New York World&apos;s Fair (1939-1940).</dc:subject>
+		<dc:subject xml:lang="en">Architecture--United States--1890-1970.</dc:subject>
+		<dc:subject xml:lang="en">Gottscho-Schleisner, Inc.</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/gschtml/gotthome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>grabill</setSpec>
+        <setName>Grabill Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for photographs from the John C. H. Grabill Collection digitized by the Library of Congress</dc:title>
+		<dc:title xml:lang="ru">Записи для фотографий Коллекции Джона Грабила оцифрованных Библиотекой Конгресса</dc:title>
+		<dc:creator xml:lang="en">Grabill, John C. H.</dc:creator>
+		<dc:publisher>Library of Congress</dc:publisher>
+		<dc:description>The one hundred and eighty-eight photographs sent by John C. H. Grabill to the Library of Congress for copyright registration (1888-91) are thought to be the largest surviving collection of this early Western photographer's work. The photographs document frontier life in Colorado, South Dakota, and Wyoming and include views of hunters, prospectors, cowboys, Chinese immigrants, and U.S. Army personnel as well as cattle and sheep ranches, mining operations, towns, natural landmarks, forts, railroads, mills, stagecoaches, and wagons. A number of the images pertain to Indians and their contact with the white man. According to the information printed on the photographic mounts, Grabill had studios in Deadwood and Lead City, South Dakota, and was &quot;Official photographer of the Black Hills &amp; F. P.[Fort Pierre] R. R. and Home State Mining Co.&quot; </dc:description>
+		<dc:description xml:lang="ru">Джон Грабил прислал в Библиотеку Конгресса 188 фотографию для защиты своих авторских прав (1888-1891). Эта коллекция считается самой большой из сохранившихся ранних собраний этого фотографа американского Запада. На фотографиях запечатлены сцены из жизни на границах в Колорадо, Южной Дакоте и Вайоминге, снимки включают изображения охотников, старателей, ковбоев, китайских эммигрантов, американских военных, а также ранчо, где выращивали скот и овец, работу на шахтах, города, естественные достопримечательности, укрепления, железные дороги, мельницы, фургоны и повозки. Несколько снимков посвящены индейцам и их контактам с белыми людьми. Согласно информации на оборотах фотографий, у Грабила были студии в Дедвуде и в Лид Сити, штат Южная Дакота, и он являлся &quot;официальным фотографом железнодорожной компании &apos;Блек Хиллз и Форт Пьер&apos; и горнодобывающей компании "Хоум Стeйт.&quot; Вместе с Фотографиями сохранились их подлинные описания, которые занесены в каталог отдела репродукций и фотографий.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">Albumen prints</dc:type>
+		<dc:type xml:lang="en">Card photographs</dc:type>
+		<dc:type xml:lang="en">Landscape photographs</dc:type>
+		<dc:coverage xml:lang="en">1890-1900</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Wyoming</dc:coverage>
+		<dc:coverage xml:lang="en">United States--South Dakota</dc:coverage>
+		<dc:subject xml:lang="en">Indians of North America</dc:subject>
+		<dc:subject xml:lang="en">Cowboys</dc:subject>
+		<dc:subject xml:lang="en">Railroads</dc:subject>
+		<dc:subject xml:lang="en">Houses</dc:subject>
+		<dc:subject xml:lang="en">Military personnel</dc:subject>
+		<dc:subject xml:lang="en">Rock formations</dc:subject>
+		<dc:subject xml:lang="en">Indian reservations</dc:subject>
+		<dc:subject xml:lang="en">Stagecoaches</dc:subject>
+		<dc:subject xml:lang="en">Parades</dc:subject>
+		<dc:subject xml:lang="en">Military camps</dc:subject>
+		<dc:subject xml:lang="en">Lumber industry--Black Hills (S.D. and Wyo.)--1890-1900.</dc:subject>
+		<dc:subject xml:lang="en">Mines</dc:subject>
+		<dc:subject xml:lang="en">Devil's Tower National Monument--1890-1900.</dc:subject>
+		<dc:subject xml:lang="en">Black Hills National Forest (S.D. and Wyo.)--1890-1900.</dc:subject>
+		<dc:subject xml:lang="en">Pine Ridge Indian Reservation (S.D.)--1890-1900.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints &amp; Photographs Division</dc:contributor>
+		<dc:relation>http://lcweb2.loc.gov/pp/grabillhtml/grabillabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>fbj</setSpec>
+        <setName>Johnston (Frances Benjamin) collection (photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">
+Records for photographs in Frances Benjamin Johnston Collection digitized by the Library of Congress
+</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Photos produced and gathered by Frances Benjamin Johnston in the course of her career as a photojournalist, portrait and architectural photographer.  Images in the collection span the period, 1850-1949, but the majority date between 1897 and 1927. Among the photographs from Johnston's early career are her coverage of American world's fairs; the White House; openings of Congress; and Progressive era educational efforts, including a survey of Washington, D.C., schools and such minority educational institutions as the Hampton Institute and the Tuskegee Institute. The collection also includes photographs collected by Johnston, including images of family and friends and works by other women photographers.  The entire collection consists of an estimated 20,000 photographic prints and 3,700 glass and film negatives.  A selection of about 1,500 images were online in early 2005.  Additional records and images will be added.
+</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">group portraits</dc:type>
+		<dc:type xml:lang="en">landscape photographs</dc:type>
+		<dc:type xml:lang="en">cityscapes</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1850-1949</dc:coverage>
+		<dc:coverage xml:lang="en">Washington, D.C.</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:coverage xml:lang="en">California</dc:coverage>
+		<dc:coverage xml:lang="en">Rhode Island</dc:coverage>
+		<dc:coverage xml:lang="en">Connecticut</dc:coverage>
+		<dc:coverage xml:lang="en">Pennsylvania</dc:coverage>
+		<dc:coverage xml:lang="en">Colorado</dc:coverage>
+		<dc:coverage xml:lang="en">Virginia</dc:coverage>
+		<dc:creator xml:lang="en">Johnston, Frances Benjamin, 1864-1952.</dc:creator>
+		<dc:subject xml:lang="en">Johnston, Frances Benjamin, 1864-1952.</dc:subject>
+		<dc:subject xml:lang="en">Women--Clothing &amp; dress.</dc:subject>
+		<dc:subject xml:lang="en">White House (Washington, D.C.)</dc:subject>
+		<dc:subject xml:lang="en">Tuskegee Institute</dc:subject>
+		<dc:subject xml:lang="en">Gardens</dc:subject>
+		<dc:subject xml:lang="en">Gardening</dc:subject>
+		<dc:subject xml:lang="en">Flowers</dc:subject>
+		<dc:subject xml:lang="en">Dining rooms</dc:subject>
+		<dc:subject xml:lang="en">Classrooms</dc:subject>
+		<dc:subject xml:lang="en">Children</dc:subject>
+		<dc:subject xml:lang="en">Clothing &amp; dress</dc:subject>
+		<dc:subject xml:lang="en">Cameras</dc:subject>
+		<dc:subject xml:lang="en">Architecture--United States--1910-1940.</dc:subject>
+		<dc:subject xml:lang="en">Industry--United States--1890-1920.</dc:subject>
+		<dc:subject xml:lang="en">Economic &amp; social conditions--1890-1920.</dc:subject>
+		<dc:subject xml:lang="en">World's Fair, St. Louis, Missouri, 1904</dc:subject>
+		<dc:subject xml:lang="en">United States Indian School (Carlisle, Pa.)--People--1890-1910.</dc:subject>
+		<dc:subject xml:lang="en">World&apos;s Columbian Exposition (1893 : Chicago, Ill.)</dc:subject>
+		<dc:subject xml:lang="en"> Hampton Institute--1890-1900.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints and Photographs Division</dc:contributor>
+		<dc:rights xml:lang="en">http://www.loc.gov/rr/print/res/279_john.html</dc:rights>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/fbjhtml/fbjabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>rbdkbib</setSpec>
+        <setName>Kraus Sir Francis Drake Collection (books only)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Books in Kraus Francis Drake Collection</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Assembled by Hans Peter Kraus and his wife Hanni, these materials reveal a great breadth and scope in the primary and secondary materials that concern Sir Francis Drake.   Books range in date from 1581 to 1695 and are in Spanish, English, Latin, German, French, and Dutch. Topics include general histories of exploration, trade, and navigation on the high seas including Drake's circumnavigation of the world. Other topics are of a more political nature and either extol Drake's accomplishments or decry his plunders in Spanish America. Still other accounts are biographies of the crowned heads Queen Elizabeth I and King Philip II [1527-1598].</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1560-1600</dc:coverage>
+		<dc:coverage xml:lang="en">North America</dc:coverage>
+		<dc:coverage xml:lang="en">South America</dc:coverage>
+		<dc:subject xml:lang="en">Drake, Francis, Sir, 1540?-1596</dc:subject>
+		<dc:subject xml:lang="en">Great Britain--History, Naval</dc:subject>
+		<dc:subject xml:lang="en">Explorers--Great Britain</dc:subject>
+		<dc:subject xml:lang="en">Circumnavigation</dc:subject>
+		<dc:subject xml:lang="en">America--Discovery and exploration--Early works to 1800.</dc:subject>
+		<dc:subject xml:lang="en">Armada, 1588.</dc:subject>
+		<dc:subject xml:lang="en">Discoveries in geography--English.</dc:subject>
+		<dc:subject xml:lang="en">Explorers--America</dc:subject>
+		<dc:subject xml:lang="en">Voyages around the world--Early works to 1800.</dc:subject>
+		<dc:subject xml:lang="en"></dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Rare Book and Special Collections Division</dc:contributor>
+		<dc:rights xml:lang="en">http://international.loc.gov/intldl/drakehtml/rbdkres.html</dc:rights>
+		<dc:relation xml:lang="en">http://international.loc.gov/intldl/drakehtml/rbdkhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lawhou</setSpec>
+        <setName>Lawrence &amp; Houseworth Collection (Photographs)</setName>
+        <!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Caroline Arms (Library of Congress) -->
+<setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Lawrence &amp; Houseworth Collection, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Half-stereograph prints show sites in Northern California with emphasis on San Francisco and areas of the Sierra Nevada. Also views of Carson City and Virginia City in Western Nevada. Subjects include placer and hydraulic mining operations and settlements; commercial buildings; the Central Pacific Railroad; churches; dwellings; mills; missions; harbors and wharfs; schools; some ships. Also cityscapes and street scenes; views of Yosemite Valley and Lake Tahoe, Calif., and the redwoods of Calaveras County, Calif.  The collection includes an extensive pictorial survey of mid-nineteenth-century San Francisco. </dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">albumen prints</dc:type>
+		<dc:type xml:lang="en">cityscapes</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1862-1867</dc:coverage>
+		<dc:coverage xml:lang="en">United States--California</dc:coverage>
+		<dc:coverage xml:lang="en">United States--California--San Francisco</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Nevada</dc:coverage>
+		<dc:coverage>Sierra Nevada (Calif. and Nev.)</dc:coverage> 
+		<dc:subject xml:lang="en">Lawrence &amp; Houseworth, publisher.</dc:subject>
+		<dc:subject xml:lang="en">Central Pacific Railroad Company--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">Cities &amp; towns--California--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">Cities &amp; towns--Nevada--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">Mining--California--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">Mining--Nevada--1860-1870.</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/lawhouhtml/lawhouabt.html</dc:relation>
+		<dc:rights>Considered to be in public domain.  Works in this collection were published before 1923.</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>musdibib</setSpec>
+        <setName>LC Dance Instruction Manuals</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">An American Ballroom Companion: Dance Instruction Manuals</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>A collection of over two hundred social dance manuals published from ca. 1490 to 1929.  The list begins with a rare late fifteenth-century source, &quot;Les basses danses de Marguerite d'Autriche&quot; (c.1490)
+and ends with Ella Gardner's 1929 &quot;Public dance halls, their regulation and place in the recreation of adolescents.&quot;  Along with dance instruction manuals, this compilation also includes a significant number of antidance manuals, histories, treatises on etiquette, and items from other conceptual categories. Many of the manuals also provide historical information on theatrical dance.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1490-1929</dc:coverage>
+		<dc:subject xml:lang="en">Ballroom dancing--Study and teaching.</dc:subject>
+		<dc:subject xml:lang="en">Dance--Study and teaching.</dc:subject>
+		<dc:subject xml:lang="en">Dance--Social aspects.</dc:subject>
+		<dc:subject xml:lang="en">Dance etiquette.</dc:subject>
+		<dc:subject xml:lang="en">Dance--Moral and ethical aspects.</dc:subject>
+		<dc:subject xml:lang="en">Dance notation.</dc:subject>
+		<dc:subject xml:lang="en">Dance music.</dc:subject>
+		<dc:subject xml:lang="en">Ballroom dancing--United States--History.</dc:subject>
+		<dc:subject xml:lang="en">Dance--Study and teaching--United States.</dc:subject>	
+		<dc:contributor xml:lang="en">Library of Congress, Music Division</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/dihtml/</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lcbooks</setSpec>
+        <setName>LC Digitized Books (Selected)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Selected books digitized by the Library of Congress</dc:title>
+		<dc:creator xml:lang="en">Library of Congress</dc:creator>
+		<dc:description xml:lang="en">Records for selected books digitized by the Library of Congress.  This set includes sets representing specific online collections from American Memory [http:/memory.loc.gov/] and Global Gateway [http://international.loc.gov/intldl/intldlhome.html]. </dc:description>
+		<dc:description>Set characteristics for lcbooks: Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   dct:accrualPolicy: Partial (new subsets may be added and existing subsets expanded).  Contains about 900 records as of June 2005.  lcbooks includes sets: lhbtnbib, musdibib, lhbcbbib, lhbprbib, rbdkbib, calbkbib, ascfrbib, ascbrbib, esbib</dc:description>
+		<dc:subject xml:lang="en">Ballroom dancing--United States.</dc:subject>
+		<dc:subject xml:lang="en">United States--Description and Travel.</dc:subject>
+		<dc:subject xml:lang="en">South America--History</dc:subject>
+		<dc:subject xml:lang="en">Puerto Rico--History</dc:subject>
+		<dc:subject xml:lang="en">Mexico--History</dc:subject>
+		<dc:subject xml:lang="en">America--Discovery and exploration--French</dc:subject>
+		<dc:subject xml:lang="en">America--Discovery and exploration--Spanish</dc:subject>
+		<dc:subject xml:lang="en">Brazil--Description and travel</dc:subject>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">book</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:contributor xml:lang="en">Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">American Notes: Travels in America, 1750-1920</dc:relation>
+		<dc:relation xml:lang="en">An American Ballroom Companion: Dance Instruction Manuals, 1490-1920</dc:relation>
+		<dc:relation xml:lang="en">The Capital and the Bay: Narratives of Washington and the Chesapeake Bay Region, ca. 1600-1925.</dc:relation>
+		<dc:relation xml:lang="en">Puerto Rico at the Dawn of the Modern Age: Nineteenth- and Early-Twentieth-Century Perspectives</dc:relation>
+		<dc:relation xml:lang="en">Books from Kraus Sir Francis Drake Collection, pre-1800</dc:relation>
+		<dc:relation xml:lang="en">Books from California As I Saw It, 1849-1900</dc:relation>
+		<dc:relation xml:lang="en">Books from France in America, 1500-1800</dc:relation>
+		<dc:relation xml:lang="en">Books from Spain, the United States, and the American Frontier, 1490-1820</dc:relation>
+		<dc:relation xml:lang="en">Books from United States and Brazil: Expanding Frontiers, Comparing Cultures, 1470-1920</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>papr</setSpec>
+        <setName>LC Early Motion Pictures</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Early Motion Pictures Digitized by the Library of Congress</dc:title>
+		<dc:creator xml:lang="en">Library of Congress</dc:creator>
+		<dc:description xml:lang="en">Records for early movies digitized by the Library of Congress for American Memory [http://memory.loc.gov/].  Items include: 341 movies made by Thomas Edison and his staff; 104 films chronicling the life of Theodore Roosevelt; early animations; films made for the Westinghouse company in 1904 of its factories and operations and other movies documenting Americans at work and leisure; films of the Pan-American Exposition (Buffalo, NY. 1901), of San Francisco before and after the 1906 earthquake, of New York City (1897-1906), and of the Spanish-American War and related events. </dc:description>
+		<dc:type xml:lang="en">moving image</dc:type>
+		<dc:type xml:lang="en">motion pictures</dc:type>
+		<dc:type xml:lang="en">silent films</dc:type>
+		<dc:type xml:lang="en">Actualities (Motion pictures)</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1891-1923</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:coverage xml:lang="en">San Francisco, CA</dc:coverage>
+		<dc:coverage xml:lang="en">Buffalo, NY</dc:coverage>
+		<dc:coverage xml:lang="en">New York City, NY</dc:coverage>
+		<dc:coverage xml:lang="en">Pittsburgh, PA</dc:coverage>
+		<dc:subject xml:lang="en">motion pictures</dc:subject>
+		<dc:subject xml:lang="en">McKinley, William, 1843-1901.</dc:subject>
+		<dc:subject xml:lang="en">Roosevelt, Theodore, 1858-1919.</dc:subject>
+		<dc:subject xml:lang="en">Edison, Thomas A. (Thomas Alva), 1847-1931.</dc:subject>
+		<dc:subject xml:lang="en">Spanish-American War, 1898.</dc:subject>
+		<dc:subject xml:lang="en">Philippines--History--Philippine American War, 1899-1902.</dc:subject>
+		<dc:subject xml:lang="en">Silent films--United States.</dc:subject>
+		<dc:subject xml:lang="en">Factories--Pennsylvania--Pittsburgh.</dc:subject>
+		<dc:subject xml:lang="en">Exhibitions--New York (State)</dc:subject>
+		<dc:subject xml:lang="en">Pan-American Exposition (1901 : Buffalo, N.Y.)</dc:subject>
+		<dc:subject xml:lang="en">New York (N.Y.)--Social life and customs.</dc:subject>
+		<dc:subject xml:lang="en">City and town life--New York (State)--New York.</dc:subject>
+		<dc:subject xml:lang="en">New York (N.Y.)--Social conditions</dc:subject>
+		<dc:subject xml:lang="en">Earthquakes--California--San Francisco.</dc:subject>
+		<dc:subject xml:lang="en">Fires--California--San Francisco.</dc:subject>
+		<dc:subject xml:lang="en">San Francisco (Calif.)--History.</dc:subject>
+		<dc:subject xml:lang="en">City and town life--California--San Francisco.</dc:subject>
+		<dc:subject xml:lang="en">Roosevelt, Theodore, 1858-1919</dc:subject>
+		<dc:subject xml:lang="en">Labor--United States--History.</dc:subject>
+		<dc:subject xml:lang="en">Leisure--United States--History.</dc:subject>
+		<dc:subject xml:lang="en">Education--United States--History.</dc:subject>
+		<dc:subject xml:lang="en">Sports--United  States--History.</dc:subject>
+		<dc:subject xml:lang="en">Animation (Cinematography)--United States.</dc:subject>
+		<dc:subject xml:lang="en">Animated films--United States.</dc:subject>
+		<dc:subject xml:lang="en">Westinghouse Electric &amp; Manufacturing Company.</dc:subject>
+		<dc:description xml:lang="en">Records based on MARC records also found in the Library of Congress's main catalog.</dc:description>
+		<dc:relation xml:lang="en">http://memory.loc.gov/cgi-bin/query/S?ammem/collections:@field(FLD003+@band(origf+Motion+Picture)):heading=Original+Format%3a+Motion+Pictures</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>gmd</setSpec>
+        <setName>LC Maps</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Selected maps digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Records for selected maps and atlases digitized by the Library of Congress.  Maps are available online through American Memory [http:/memory.loc.gov/]. </dc:description>
+		<dc:subject xml:lang="en">Cities and Towns</dc:subject>
+		<dc:subject xml:lang="en">Discovery and Exploration</dc:subject>
+		<dc:subject xml:lang="en">Conservation and Environment</dc:subject>
+		<dc:subject xml:lang="en">Cultural Landscapes</dc:subject>
+		<dc:subject xml:lang="en">Military Battles and Campaigns</dc:subject>
+		<dc:subject xml:lang="en">Transportation and Communication</dc:subject>
+		<dc:subject xml:lang="en">American Revolution</dc:subject>
+		<dc:subject xml:lang="en">Civil War, 1861-1865</dc:subject>
+		<dc:subject xml:lang="en">World maps</dc:subject>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:coverage xml:lang="en">Liberia</dc:coverage>
+		<dc:coverage xml:lang="en">Puerto Rico</dc:coverage>
+		<dc:coverage xml:lang="en">Mexico</dc:coverage>
+		<dc:coverage xml:lang="en">Russia</dc:coverage>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">cartographic</dc:type>
+		<dc:type xml:lang="en">map</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:contributor xml:lang="en">Geography and Maps Division, Library of Congress</dc:contributor>
+		<dc:description xml:lang="en">Records based on MARC records also found in the Library of Congress's main catalog [catalog.loc.gov].</dc:description>
+		<dc:relation>http://memory.loc.gov/ammem/gmdhtml/gmdhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>pan</setSpec>
+        <setName>LC Panoramic Photographs</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Taking the Long View: Panoramic Photographs, 1851-1991</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>The Panoramic Photograph Collection contains approximately four thousand images featuring American cityscapes, landscapes, and group portraits. These panoramas offer an overview of the nation, its enterprises and its interests, with a focus on the start of the twentieth century when the panoramic photo format was at the height of its popularity. Subject strengths include: agricultural life; beauty contests; disasters; engineering work such as bridges, canals and dams; fairs and expositions; military and naval activities, especially during World War I; the oil industry; schools and college campuses, sports, and transportation. The images date from 1851 to 1991 and depict scenes in all fifty states and the District of Columbia. More than twenty foreign countries and a few U.S. territories are also represented.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">panoramic photograph</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington (D.C.)</dc:coverage>
+		<dc:coverage xml:lang="en">1850-2000</dc:coverage>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Photography, Panoramic</dc:subject>
+		<dc:subject xml:lang="en">Agriculture</dc:subject>
+		<dc:subject xml:lang="en">Civil Engineering</dc:subject>
+		<dc:subject xml:lang="en">Disasters</dc:subject>
+		<dc:subject xml:lang="en">Exhibitions</dc:subject>
+		<dc:subject xml:lang="en">Fairs</dc:subject>
+		<dc:subject xml:lang="en">Industry</dc:subject>
+		<dc:subject xml:lang="en">Meetings</dc:subject>
+		<dc:subject xml:lang="en">Military Facilities</dc:subject>
+		<dc:subject xml:lang="en">Mining</dc:subject>
+		<dc:subject xml:lang="en">Sports</dc:subject>
+		<dc:subject xml:lang="en">Streets</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/pnhtml/</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lcphotos</setSpec>
+        <setName>LC Photographs (selected collections)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/             http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Selected photograph collections digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Records for photographic materials digitized by the Library of Congress.  This set includes all sets representing specific photograph collections.  Some of the collections included are part of American Memory [http:/memory.loc.gov/]. Others are available online through the Prints and Photographs Online Catalog [http://www.loc.gov/rr/print/catalog.html].  The source materials include a wide variety of photographic formats: prints, negatives (including glass negatives), panoramas, photochrom prints, etc.  Some non-photographic items may be included if they are part of an archival collection that is primarily photographic.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">Roger Fenton Crimean War photograph collection, 1855</dc:relation>
+		<dc:relation xml:lang="en">Taking the Long View: Panoramic Photographs, 1851-1991</dc:relation>
+		<dc:relation xml:lang="en">John C. H. Grabill Collection, 1890-1900</dc:relation>
+		<dc:relation xml:lang="en">Curtis (Edward S.) Collection of photographs, 1890-1929</dc:relation>
+		<dc:relation xml:lang="en">Glass negatives from the Papers of Wilbur and Orville Wright, 1890-1930</dc:relation>
+		<dc:relation xml:lang="en">Photochrom Print Collection, 1890-1900</dc:relation>
+		<dc:relation xml:lang="en">Washington as It Was: Photographs by Theodor Horydczak, 1923-1959</dc:relation>
+		<dc:relation xml:lang="en">Architecture and Interior Design for 20th Century America: Photographs by Samuel Gottscho and William Schleisner, 1935-1955</dc:relation>
+		<dc:relation xml:lang="en">&quot;Suffering Under a Great Injustice&quot;: Ansel Adams's Photographs of Japanese-American Internment at Manzanar, 1943</dc:relation>
+		<dc:relation xml:lang="en">Abdul-Hamid II collection.  A set of 51 albums given by Sultan Abdül-Hamid II of the Ottoman Empire to the National Library of the United States of America in 1893.</dc:relation>
+		<dc:relation xml:lang="en">William C. Brumfield Photograph Collection.   Color slides documenting architecture of pre-Soviet Russia, from the Russian North and Western Siberia. 1987-2000</dc:relation>
+		<dc:relation xml:lang="en">Lawrence &amp; Houseworth Collection.  Photographs of Northern California and Western Nevada from the series Gems of California scenery. 1862-1867</dc:relation>
+		<dc:relation xml:lang="en">Brady-Handy Collection.  Primarily glass plate negatives, 1855-1910. Civil War and post-Civil War portraits, with some views of Washington DC. </dc:relation>
+		<dc:relation xml:lang="en">Selected civil war photographs, 1861-1865</dc:relation>
+		<dc:relation xml:lang="en">G. Eric and Edith Matson Negatives.  Contains 20,000 glass and film photographic negatives, mainly of the Middle East, 1898-1946.</dc:relation>
+<dc:relation xml:lang="en">Sergei Mikhailovich Prokudin-Gorskii Collection.   Roughly 2,500 images from color photographic surveys of the Russian Empire  1905-1915.</dc:relation>
+<dc:relation xml:lang="en">African American Photographs assembled for 1900 Paris Exhibition.</dc:relation>
+<dc:relation xml:lang="en">National Photo Company Collection.  Mainly Washington D.C., 1909-1930.</dc:relation>
+<dc:relation xml:lang="en">Color Photographs from the FSA-OWI, 1939-1945.  Roughly 1,600 images.</dc:relation>
+<dc:relation xml:lang="en">George Grantham Bain Collection.  From one of America's earliest news picture agencies.  Over 12,000 images, mainly 1900-1930.</dc:relation>
+<dc:relation xml:lang="en">Frank and Frances Carpenter Collection.  Reflect travels in Europe, the Near and Far East, Africa, and North and South America. Mainly 1890-1930.</dc:relation>
+<dc:relation xml:lang="en">Frances Benjamin Johnston Collection. Photojournalist and portrait photographer, later turning to estate and garden photography.  Mainly 1897-1927.</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lcposters</setSpec>
+        <setName>LC Posters</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Selected poster collections digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Records for selected posters digitized by the Library of Congress.  This set includes sets representing specific poster collections.  Collections included may be part of American Memory [http:/memory.loc.gov/]. or available online through the Prints and Photographs Online Catalog [http://www.loc.gov/rr/print/catalog.html].  </dc:description>
+		<dc:subject xml:lang="en">World War, 1914-1918--France.</dc:subject>
+		<dc:subject xml:lang="en">World War, 1914-1918--United States.</dc:subject>
+		<dc:contributor xml:lang="en">Works Projects Administration</dc:contributor>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">poster</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">Works Projects Administration (WPA) Posters, 1936-1943</dc:relation>
+		<dc:relation xml:lang="en">World War I posters, 1914-1920</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>rbpebib</setSpec>
+        <setName>LC Printed Ephemera Selections</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for An American Time Capsule: Three Centuries of Broadsides and Other Printed Ephemera</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>The Printed Ephemera collection at the Library of Congress is a rich repository of Americana. In total, the collection comprises 28,000 primary-source items dating from the seventeenth century to the present and encompasses key events and eras in American history. Roughly 10,000 items are currently online.  While the broadside format represents the bulk of the collection, there are a significant number of leaflets and some pamphlets. Rich in variety, the collection includes proclamations, advertisements, blank forms, programs, election tickets, catalogs, clippings, timetables, and menus. They capture the everyday activities of ordinary people who participated in the events of nation-building and experienced the growth of the nation from the American Revolution through the Industrial Revolution up to present day. </dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">broadsides</dc:type>
+		<dc:type xml:lang="en">pamphlets</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1700-2000</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">Broadsides -- United States</dc:subject>
+		<dc:subject xml:lang="en">Printed ephemera -- United States</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Rare Book and Special Collections Division</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/rbpehtml/</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>mussm</setSpec>
+        <setName>LC Sheet Music</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/
+http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Sheet Music Digitized by the Library of Congress</dc:title>
+		<dc:creator xml:lang="en">Library of Congress</dc:creator>
+		<dc:description xml:lang="en">Records for more than 62,500 pieces of historical sheet music registered for copyright in the United States: more than 15,000 registered during the years 1820-1860 and more than 47,000 registered during the years 1870-1885. Included are popular songs, operatic arias, piano music, sacred and secular choral music, solo instrumental music, method books and instructional materials, and music for band and orchestra.</dc:description>
+		<dc:type xml:lang="en">sheet music</dc:type>
+		<dc:subject xml:lang="en">sheet music</dc:subject>
+		<dc:coverage xml:lang="en">1820-1860</dc:coverage>
+		<dc:coverage xml:lang="en">1870-1885</dc:coverage>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/mussmhtml/mussmhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lcmiscvis</setSpec>
+        <setName>LC Visual Resources (Miscellaneous)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Selected visual resources other than posters or photographs, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Records for selected miscellaneous visual resource collections digitized by the Library of Congress.  This set includes sets representing specific collections of prints, drawings, and other visual resources that do not fall into the categories of photographs or posters.  Collections included may be part of American Memory [http:/memory.loc.gov/]. or available online through the Prints and Photographs Online Catalog [http://www.loc.gov/rr/print/catalog.html].  </dc:description>
+		<dc:coverage xml:lang="en">France</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">Aeronautics</dc:subject>
+		<dc:subject xml:lang="en">Aircraft</dc:subject>
+		<dc:subject xml:lang="en">Balloonists</dc:subject>
+		<dc:subject xml:lang="en">Tissandier, Albert, 1839-1906</dc:subject>
+		<dc:subject xml:lang="en">Tissandier, Gaston, 1843-1899</dc:subject>
+		<dc:contributor xml:lang="en">Tissandier, Albert, 1839-1906, collector.</dc:contributor>
+		<dc:contributor xml:lang="en">Tissandier, Gaston, 1843-1899, collector.</dc:contributor>
+		<dc:subject xml:lang="en">Political cartoons</dc:subject>
+		<dc:subject xml:lang="en">Caricatures</dc:subject>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">woodcuts</dc:type>
+		<dc:type xml:lang="en">prints</dc:type>
+		<dc:type xml:lang="en">drawings</dc:type>
+		<dc:type xml:lang="en">ephemera</dc:type>
+		<dc:type xml:lang="en">illustrations</dc:type>
+		<dc:type xml:lang="en">political cartoons</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">Visual Materials from the Tissandier Collection</dc:relation>
+		<dc:relation xml:lang="en">Cartoon Prints, American, 1766-1876</dc:relation>
+		<dc:relation xml:lang="en">Cartoon Prints, British, mainly 1780-1830</dc:relation>
+		<dc:relation xml:lang="en">Fine Prints, Japanese, mainly pre-1915</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lomaxpp</setSpec>
+        <setName>Lomax Collection of Photographs Depicting Folk Musicians</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Lomax Collection of Photographs Depicting Folk Musicians, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Roughly 400 snapshot photographs made in the course of sound recording expeditions carried out by John Avery Lomax, Alan Lomax, and Ruby Terrill Lomax, between 1934 and ca. 1950 for the Archive of American Folk-Song. The photographs, which were transferred to the Prints and Photographs Division from the Archive of American Folk-Song in 1950, depict African American, Mexican American, and white musicians, singers and dancers, primarily in the southern United States (Alabama, Arkansas, Florida, Georgia, Louisiana, Mississippi, North Carolina, Texas, and Virginia) and the Bahamas (Nassau, Andros Island, and Cat Island). In addition to posed portraits, the images show musicians performing in various settings: at home, in concert, and while performing prison labor outdoors. Views of children engaged in singing games, scenes of daily life, and some landscape views are also included. Musicians depicted include, among others, Henry Truvillion, James "Iron Head" Baker, Moses "Clear Rock" Platt, Leadbelly, Crockett "Davy" Ward, Bill Hensley, Uncle Bob Ledbetter, and Bascom Lamar Lunsford. Folklorist Zora Neale Hurston, who assisted the Lomaxes on expeditions to Georgia and Florida, has been identified in a few photographs.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">group portraits</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1934-1950</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:coverage xml:lang="en">Bahamas</dc:coverage>
+		<dc:coverage xml:lang="en">United States--South Carolina</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Georgia</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Florida</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Louisiana</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Texas</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Alabama</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Virginia</dc:coverage>
+		<dc:subject xml:lang="en">Lomax, Alan, 1915-2002, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Lomax, Ruby T. (Ruby Terrill), photographer.</dc:subject>
+		<dc:subject xml:lang="en">African Americans</dc:subject>
+		<dc:subject xml:lang="en">Musicians</dc:subject>
+		<dc:subject xml:lang="en">Music</dc:subject>
+		<dc:subject xml:lang="en">Music festivals</dc:subject>
+		<dc:subject xml:lang="en">Folk dancers</dc:subject>
+		<dc:subject xml:lang="en">Hurston, Zora Neale</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://hdl.loc.gov/loc.afc/collafc.af000015</dc:relation>
+		<dc:relation xml:lang="en">http://memory.loc.gov/pp/lomaxhtml/lomaxabt.html</dc:relation>
+		<dc:rights>There are no known donor restrictions on the Lomax Collection. Most images were taken by the donors, but a few images are marked with the names of other sources and these may be restricted. Privacy and publicity rights may also apply.</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>matpc</setSpec>
+        <setName>Matson (G. Eric and Edith) Photograph Collection</setName>
+        <!-- edited with XML Spy v4.4 U (http://www.xmlspy.com) by Caroline Arms (Library of Congress) -->
+<setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of Matson (G. Eric and Edith) Negatives, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Negatives made by the American Colony Photo Department and its successor, the Matson Photo Service, illustrating Middle East culture, history, and political events including people and locations in Israel, the West Bank, Jordan, Lebanon, Syria, Iraq, Egypt, and Turkey.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">dry plate negatives</dc:type>
+		<dc:type xml:lang="en">glass negatives</dc:type>
+		<dc:type xml:lang="en">landscapes</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1898-1946</dc:coverage>
+		<dc:coverage xml:lang="en">Egypt</dc:coverage>
+		<dc:coverage xml:lang="en">Egypt--Sinai</dc:coverage>
+		<dc:coverage xml:lang="en">Iraq</dc:coverage>
+		<dc:coverage xml:lang="en">Turkey</dc:coverage>
+		<dc:coverage xml:lang="en">Israel</dc:coverage>
+		<dc:coverage xml:lang="en">Jordan</dc:coverage>
+		<dc:coverage xml:lang="en">Jordan--Petra (Extinct city)</dc:coverage>
+		<dc:coverage xml:lang="en">Lebanon</dc:coverage>
+		<dc:coverage xml:lang="en">Lebanon--Beirut</dc:coverage>
+		<dc:coverage xml:lang="en">Syria</dc:coverage>
+		<dc:coverage xml:lang="en">Syria--Damascus</dc:coverage>
+		<dc:coverage xml:lang="en">Kenya</dc:coverage>
+		<dc:coverage xml:lang="en">Uganda</dc:coverage>
+		<dc:coverage xml:lang="en">West Bank</dc:coverage>
+		<dc:coverage xml:lang="en">West Bank--Bethlehem</dc:coverage>
+		<dc:coverage xml:lang="en">Jerusalem</dc:coverage>
+		<dc:coverage xml:lang="en">Tanzania</dc:coverage>
+		<dc:subject xml:lang="en">American Colony (Jerusalem). Photo Dept., photographer</dc:subject>
+		<dc:subject xml:lang="en">Matson Photo Service, photographer</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/matpchtml/matpcabt.html</dc:relation>
+		<dc:rights>http://www.loc.gov/rr/print/res/258_mats.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>nclc</setSpec>
+        <setName>National Child Labor Committee Photographs</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for National Child Labor Committee Collection of photographs, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>More than 5,100 photographic prints and 323 glass negatives, given to the Library of Congress, along with the NCLC records, in 1954 by Mrs. Gertrude Folks Zimand, acting for the NCLC in her capacity as chief executive.  Working as an investigative photographer for the National Child Labor Committee (NCLC), Lewis Hine (1874-1940) documented working and living conditions of children in the United States between 1908 and 1921. The NCLC photos are useful for the study of labor, reform movements, children, working class families, education, public health, urban and rural housing conditions, industrial and agricultural sites, and other aspects of urban and rural life in America in the early twentieth century.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">glass negatives</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1908-1921</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">Hine, Lewis Wickes, 1874-1940, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Child labor</dc:subject>
+		<dc:subject xml:lang="en">Agriculture</dc:subject>
+		<dc:subject xml:lang="en">Canneries</dc:subject>
+		<dc:subject xml:lang="en">Mines</dc:subject>
+		<dc:subject xml:lang="en">Mills</dc:subject>
+		<dc:subject xml:lang="en">Street trades</dc:subject>
+		<dc:subject xml:lang="en">Glass factories</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/nclchtml/nclcabt.html</dc:relation>
+		<dc:rights> In 1954 the Library received the records of the National Child Labor Committee, including approximately 5000 photographs and 350 negatives by Lewis Hine. There are no known restrictions, but privacy and publicity rights may apply.</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>npco</setSpec>
+        <setName>National Photo Company Collection</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for National Photo Company Collection (photographs), digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>The National Photo Company Collection documents virtually all aspects of Washington, D.C., life. During the administrations of Presidents Wilson, Harding, Coolidge, and Hoover, the National Photo Company supplied photographs of current news events in Washington, D.C., as a daily service to its subscribers. It also prepared sets of pictures on popular subjects and undertook special photographic assignments for local businesses and government agencies. The portion of the collection that is online represents a small cross-section of the collection, roughly 1,800 images as of November 2004.  The full collection consists of an estimated 80,000 images (photographic prints and corresponding glass negatives) and includes photographic prints presented in chronological albums covering events of the period 1919 to 1930 and thematic groups of photographs on the four presidents, inaugurations, sports, landmarks, conventions, and topics of local interest. The images date between ca. 1850 and 1945; the bulk of the images were created between 1909 and 1932.  More images will be digitized and records added.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photographs</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1909-1932</dc:coverage>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington</dc:coverage>
+		<dc:subject xml:lang="en">French, Herbert E. (Herbert Eliot), 1883-ca. 1950, collector</dc:subject>
+		<dc:subject xml:lang="en">Events--Washington (D.C.)--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Portrait photographs</dc:subject>
+		<dc:subject xml:lang="en">Disaster relief--United States--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Parades &amp; processions--Washington (D.C.)--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Government officials--Washington (D.C.)--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Demonstrations--Washington (D.C.)--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Monuments &amp; memorials--Washington (D.C.)--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Indians of North America--Washington (D.C.)--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Legislators--Washington (D.C.)--1900-1940.</dc:subject>
+		<dc:subject xml:lang="en">Coolidge, Calvin, 1872-1933</dc:subject>
+		<dc:subject xml:lang="en">Harding, Warren G. (Warren Gamaliel), 1865-1923</dc:subject>
+		<dc:subject xml:lang="en">Hoover, Herbert, 1874-1964</dc:subject>
+		<dc:subject xml:lang="en">Wilson, Woodrow, 1856-1924</dc:subject>
+		<dc:subject xml:lang="en">Taft, William H. (William Howard), 1857-1930</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/npcohtml/npcoabt.html</dc:relation>
+		<dc:rights xml:lang="en">http://lcweb2.loc.gov/pp/npcohtml/npcores.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>pchrom</setSpec>
+        <setName>Photochrom Prints</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for photochrom prints digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Late 19th and early 20th century travel views primarily of Eastern and Central European destinations (including the former Austro-Hungarian Empire). Includes cities and towns in Austria, Belgium, Bosnia &amp; Hercegovina, Croatia, the Czeck Republic, Denmark, England, France, Germany, Hungary, Ireland, Italy, Luxembourg, Montenegro, the Netherlands, Norway, Poland, the French and Italian Riviera, Romania, Russia, Scotland, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Syria, Ukraine, and Wales. Also includes some views of sites in Algeria, the Holy Land, Tunisia, and Turkey. Images primarily depict architecture, monuments, landscapes, cityscapes, and waterfronts. Some images also show people and aspects of daily life. Also includes one group of unidentified views.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">Photochrom prints</dc:type>
+		<dc:type xml:lang="en">Landscape prints</dc:type>
+		<dc:type xml:lang="en">Cityscape prints</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1890-1900</dc:coverage>
+		<dc:coverage xml:lang="en">Europe</dc:coverage>
+		<dc:coverage xml:lang="en">North Africa</dc:coverage>
+		<dc:coverage xml:lang="en">Middle East</dc:coverage>
+		<dc:coverage xml:lang="en">Palestine</dc:coverage>
+		<dc:coverage xml:lang="en">Russia</dc:coverage>
+		<dc:subject xml:lang="en">required</dc:subject>
+		<dc:subject xml:lang="en">Architecture</dc:subject>
+		<dc:subject xml:lang="en">Monuments &amp; memorials</dc:subject>
+		<dc:subject xml:lang="en">Cities &amp; towns</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints and Photographs Division</dc:contributor>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>prok</setSpec>
+        <setName>Prokudin-Gorskii Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Sergei Mikhailovich Prokudin-Gorskii Collection of photographs, digitized by the Library of Congress</dc:title>
+		<dc:title xml:lang="ru">Записи для фотографий  Kоллекции Сергея Михайловича Прокудина-Горского оцифрованных Библиотекой Конгресса</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description xml:lang="en">Sergei Mikhailovich Prokudin-Gorskii (1863-1944) was an active innovator in the field of color photography. Between 1909 and 1915 he undertook an ambitious photographic survey of the Russian Empire. The Prokudin-Gorskii Collection was sold to the Library of Congress in the 1940s by the heirs of Prokudin-Gorskii. It consists of 1,900 glass plate negatives and some 2,700 contact prints that are mounted in fourteen albums. Using light filters, Prokudin-Gorskii was able to create color projections from the glass plate negatives.  Moder color composites of these are available online.  Frequent subjects include people, religious architecture, historic sites, industry and agriculture, public works construction, scenes along water and railway transportation routes, and views of villages and cities. </dc:description>
+		<dc:description xml:lang="ru">Сергей Михайлович Прокудин-Горский (1863-1944 гг.) был замечательным новатором в области цветной фотографии. В период между 1909 и 1915 годами он предпринял обширное фото- путешествие по Российской Империи. Коллекция Прокудина-Горского была продана Библиотеке Конгресса его наследниками в 1940-х годах. Она состоит из 1900 стеклянных негативов, а также около 2700 контактных отпечатков, которые собраны в четырнадцати альбомах. Используя цветовые фильтры, Прокудин- Горский смог создать цветопроекцию на основе стеклянных негативов.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">glass negatives</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1905-1915</dc:coverage>
+		<dc:coverage xml:lang="en">Russia (Federation)</dc:coverage>
+		<dc:subject xml:lang="en">Prokudin-Gorskii, Sergei Mikhailovich, 1863-1944 photographer.</dc:subject>
+		<dc:subject xml:lang="en">Architecture--Russia (Federation)--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Railroads--Russia (Federation)--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Cities &amp; towns--Russia (Federation)--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Waterways--Russia (Federation)--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">People--Russia (Federation)--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Dwellings--Russia (Federation)--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Villages--1900-1920.</dc:subject>
+		<dc:subject xml:lang="en">Glass negatives</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Color photography</dc:subject>
+		<dc:subject xml:lang="en">Portrait photographs</dc:subject>
+		<dc:subject xml:lang="en">Group portraits</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/prokhtml/prokabt.html</dc:relation>
+		<dc:rights xml:lang="en">http://www.loc.gov/rr/print/res/237_prok.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lhbprbib</setSpec>
+        <setName>Puerto Rico at the Dawn of the Modern Age (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Puerto Rico at the Dawn of the Modern Age</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>First-person accounts, political writings, and histories drawn from the Library of Congress's General Collections portray the early history of the commonwealth of Puerto Rico.  Topics highlighted include the land and its resources, relations with Spain, the competition among political parties, reform efforts, and recollections by veterans of the Spanish-American War. The books and pamphlets in the collection, roughly 50 works, were published between 1831 and 1929.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1831-1929</dc:coverage>
+		<dc:coverage xml:lang="en">Cuba</dc:coverage>
+		<dc:coverage xml:lang="en">Puerto Rico</dc:coverage>
+		<dc:subject xml:lang="en">Spanish-American War, 1898</dc:subject>
+		<dc:subject xml:lang="en">Puerto Rico--History.</dc:subject>
+		<dc:subject xml:lang="en">Cuba--History.</dc:subject>
+		<dc:subject xml:lang="en">Politics and government.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, General Collections</dc:contributor>
+		<dc:rights xml:lang="en">http://memory.loc.gov/ammem/prhtml/prres.html</dc:rights>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/prhtml/prhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>mtfront</setSpec>
+        <setName>Siberia, Alaska, and the American West (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Siberia, Alaska, and the American West (books)</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Books from the Library of Congress collections digitized for Meeting of Frontiers, a collaborative, bilingual digital library assembled by the Library of Congress and a variety of libraries and archival institutions in Russia and Alaska.   Meeting of Frontiers explores the comparative history of the Russian expansion across Siberia to the Russian Far East and the Pacific, the American expansion westward, and the meeting of the Russian-America frontier in Alaska and the Pacific Northwest. Russia and the United States were very different countries: Russia an autocracy ruled by the tsar, and America a democratic republic.  The collection illuminates a number of themes, places and events, including: exploration; colonization; development; Alaska; Siberia, national identity; mutual perceptions; the Russo-Japanese War of 1904-5; th eKlondike gold rush.</dc:description>
+		<dc:description>Set characteristics for mtfront:  Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   Since the source MARC records were created without capabilities for representing cyrillic, titles for works in Russian are romanized and sometimes translated.  The OAI_dc records have a single title, using the translated title in preference to the romanized title.  MARC and MODS records include all title varaints in the source record.   dct:accrualPolicy: Partial (selection for new topical areas is by LC subject specialists in conjunction with partners).  Contains about 90 records.  Records in set mtfront are also in set lcbooks.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1700-1960</dc:coverage>
+		<dc:coverage xml:lang="en">Siberia</dc:coverage>
+		<dc:coverage xml:lang="en">Russia</dc:coverage>
+		<dc:coverage xml:lang="en">Alaska</dc:coverage>
+		<dc:coverage xml:lang="en">Soviet Union</dc:coverage>
+		<dc:coverage xml:lang="en">California</dc:coverage>
+		<dc:subject xml:lang="en">United States--Territorial expansion.</dc:subject>
+		<dc:subject xml:lang="en">Russia--Territorial expansion.</dc:subject>
+		<dc:subject xml:lang="en">West (U.S.)--Discovery and exploration.</dc:subject>
+		<dc:subject xml:lang="en">Northwest, Pacific--Discovery and exploration.</dc:subject>
+		<dc:subject xml:lang="en">Alaska--Discovery and exploration.</dc:subject>
+		<dc:subject xml:lang="en">Siberia (Russia)--Discovery and exploration.</dc:subject>
+		<dc:subject xml:lang="en">Russian Far East (Russia)--Discovery and exploration.</dc:subject>
+		<dc:subject xml:lang="en">United States--Relations--Russia.</dc:subject>
+		<dc:subject xml:lang="en">Russia--Relations--United States.</dc:subject>
+		<dc:subject xml:lang="en">World War, 1914-1918</dc:subject>
+		<dc:subject xml:lang="en">Russo-Japanese War, 1904-1905.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress</dc:contributor>
+		<dc:rights xml:lang="en">http://international.loc.gov/intldl/mtfhtml/mfabout/mfcopy.html</dc:rights>
+		<dc:relation xml:lang="en">http://international.loc.gov/intldl/mtfhtml/mfhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>esbib</setSpec>
+        <setName>Spain, the United States, and the American Frontier (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Parallel Histories: Spain, the United States, and the American Frontier (books only)</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Books from the Library of Congress collections digitized for Parallel Histories: Spain, the United States, and the American Frontier, a collaborative, bilingual digital library assembled by the Library of Congress, the National Library of Spain, and the Biblioteca Colombina y Capitular of Seville.  To date, the focus of this collaborative project has been on exploration and early settlement.  Rare books from the 15th through 18th century include two copies of Columbus’ account of his discoveries; a “Proof of noble blood” of Sebastián Vizcaíno, Cabeza de Vaca’s account of his journey through the Southwest, and Bernardo de Gálvez’s diary of the conquest of British Pensacola by the Spanish during the American Revolution.  Other items include an English-language military survey published in 1848 and two volumes of Gaspar de Villagrá’s Historia de la Nueva México, written in ballad form and reprinted by the Museo Nacional de México in 1900.</dc:description>
+		<dc:description>Set characteristics for esbib:  Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   dct:accrualPolicy: Partial (selection for new topical areas is by LC subject specialists in conjunction with National Library of Brazil).  Contains about 30 records.  Records in set esbib are also in set lcbooks.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1490-1820</dc:coverage>
+		<dc:coverage xml:lang="en">Mexico</dc:coverage>
+		<dc:coverage xml:lang="en">Latin America</dc:coverage>
+		<dc:coverage xml:lang="en">Florida</dc:coverage>
+		<dc:coverage xml:lang="en">New Mexico</dc:coverage>
+		<dc:subject xml:lang="en">Columbus, Christopher</dc:subject>
+		<dc:subject xml:lang="en">America--Discovery and exploration--Spanish</dc:subject>
+		<dc:subject xml:lang="en">Soto, Hernando de,--ca. 1500-1542.</dc:subject>
+		<dc:subject xml:lang="en">Spain--Colonies--West Indies</dc:subject>
+		<dc:subject xml:lang="en">Mexico--History--Spanish colony, 1540-1810.</dc:subject>
+		<dc:subject xml:lang="en">Manuscripts, Spanish American--Catalogs.</dc:subject>
+		<dc:subject xml:lang="en">Latin America--History</dc:subject>
+		<dc:subject xml:lang="en">Law--Latin America</dc:subject>
+		<dc:subject xml:lang="en">Spain--Colonies--America--Administration--History</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress</dc:contributor>
+		<dc:rights xml:lang="en">http://international.loc.gov/cgi-bin/ammemrr.pl?title=%3ca%20href%3d%22%2fintldl%2feshtml%2feshome.html%22%3eParallel%20Histories%3a%20Spain,%20the%20United%20States,%20and%20the%20American%20Frontier.%3cbr%3eHistorias%20Paralelas%3a%20Espa%26ntilde;a,%20Estados%20Unidos%20y%20la%20Frontera%20Americana.%3c%2fa%3e&amp;coll=esbib&amp;div=&amp;agg=rbesp&amp;default=ammem&amp;dir=intldl</dc:rights>
+		<dc:relation xml:lang="en">http://international.loc.gov/intldl/eshtml/eshome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>stereo</setSpec>
+        <setName>Stereographic Cards</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Digitized Stereograph Cards from LC's Prints &amp; Photographs Division</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Digitized stereographic cards from the Stereograph Collection.  Approximately 5,000 cards from a total of over 52,000 have been digitized by early 2006. The online images feature cities and towns around the world, expeditions and expositions, industries, disasters, and portraits of Native Americans, presidents, and celebrities. Particular concentrations include: views of the American west taken in the 1870s as part of geological and geographical surveys; the American Civil War; the Spanish American War; and stereo views taken by amateurs and shared through the Amateur Photographic Exchange Club.  Versos of cards have been digitized if they have text on them. </dc:description>
+		<dc:description xml:lang="en">Set characteristics for stereo: Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   Many records have only inventory-level description, without subject headings.  Titles and notes are transcribed from the cards.   DCCDaccrualPolicy: Active.  DCCDAccrualPeriodicity: Completely irregular.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">stereograph</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:coverage xml:lang="en">1850-1920</dc:coverage>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Stereographs</dc:subject>
+		<dc:subject xml:lang="en">Landscape photographs</dc:subject>
+		<dc:subject xml:lang="en">Cityscape photographs</dc:subject>
+		<dc:subject xml:lang="en">Expeditions &amp; Surveys</dc:subject>
+		<dc:subject xml:lang="en">Travel</dc:subject>
+		<dc:subject xml:lang="en">Disasters</dc:subject>
+		<dc:subject xml:lang="en">Exhibitions</dc:subject>
+		<dc:subject xml:lang="en">Fairs</dc:subject>
+		<dc:subject xml:lang="en">Industry</dc:subject>
+		<dc:subject xml:lang="en">Presidents</dc:subject>
+		<dc:subject xml:lang="en">Wars</dc:subject>
+		<dc:subject xml:lang="en">Military Facilities</dc:subject>
+		<dc:subject xml:lang="en">Mining</dc:subject>
+		<dc:subject xml:lang="en">Geographical Surveys West of the 100th Meridian (U.S.) </dc:subject>
+		<dc:subject xml:lang="en">Exploration</dc:subject>
+		<dc:subject xml:lang="en">Keystone View Company</dc:subject>
+		<dc:subject xml:lang="en">Spanish-American War, 1898</dc:subject>
+		<dc:subject xml:lang="en">United States--History--Civil War, 1861-1865</dc:subject>
+		<dc:subject xml:lang="en">Watkins, Carleton E., 1829-1916, photographer</dc:subject>
+		<dc:subject xml:lang="en">Gardner, Alexander, 1821-1882, photographer</dc:subject>
+		<dc:subject xml:lang="en">Hillers, John K., 1843-1925, photographer</dc:subject>
+		<dc:subject xml:lang="en">Bell, William, 1830-1910, photographer</dc:subject>
+		<dc:subject xml:lang="en">O'Sullivan, Timothy H., 1840-1882, photographer</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/pp/stereohtml/stereoabt.html</dc:relation>
+		<dc:rights>http://www.loc.gov/rr/print/res/493_ster.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>lhbcbbib</setSpec>
+        <setName>The Capital and the Bay: Narratives of Washington and the Chesapeake Bay Region (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for The Capital and the Bay: Narratives of Washington and the Chesapeake Bay Region, 1600-1925</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Roughly 140 books selected and digitized from the Library of Congress's collections. The collection includes first-person narratives, early histories, historical biographies, promotional brochures, and books of photographs that capture in words and pictures a distinctive region as it developed between the onset of European settlement and the first quarter of the twentieth century.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1600-1925</dc:coverage>
+		<dc:subject xml:lang="en">Description and travel.</dc:subject>
+		<dc:subject xml:lang="en">Pictorial works</dc:subject>
+		<dc:subject xml:lang="en">Politics and Government</dc:subject>
+		<dc:subject xml:lang="en">History.</dc:subject>
+		<dc:subject xml:lang="en">Social life and customs.</dc:subject>
+		<dc:subject xml:lang="en">Biography</dc:subject>
+		<dc:subject xml:lang="en">United States--Social conditions.</dc:subject>
+		<dc:subject xml:lang="en">Indians of North America.</dc:subject>
+		<dc:coverage xml:lang="en">United States--Virginia</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Maryland</dc:coverage>
+		<dc:coverage xml:lang="en">Chesapeake Bay Region (Md. and Va.)</dc:coverage>
+		<dc:coverage xml:lang="en">Washington Region</dc:coverage>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington</dc:coverage>
+		<dc:contributor xml:lang="en">Library of Congress, General Collections and Rare Book Division</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/lhcbhtml/</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>horyd</setSpec>
+        <setName>Theodor Horydczak Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for 
+Washington as It Was: Photographs by Theodor Horydczak, 1923-1959</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Spanning from the mid 1920s through the 1950s, the Theodor Horydczak collection (about 14,350 photographs online) documents the architecture and social life of the Washington metropolitan area in the 1920s, 1930s, and 1940s, including exteriors and interiors of commercial, residential, and government buildings, including the U.S. Capitol, Library of Congress, and Smithsonian Institution.  Other subjects include Georgetown, the southwest waterfront, the C&amp;O (Chesapeake &amp; Ohio) Canal, Potomac River bridges, the National Cathedral and other religious buildings, educational and training institutions, organizations' buildings, hotels and restaurants, embassies, museums and libraries, outdoor sculptures, and monuments.  A number of Washington events and activities, such as the 1932 Bonus Army encampment, the 1933 World Series, and World War II preparedness campaigns, are also depicted.  Additional subjects include developments in transportation and aviation and documentation of both
+the use and the promotion of the use of electrical power, with special attention given to public utility companies. Structures and activities in Maryland and Virginia are recorded. Various industrial facilities in Iowa and Pennsylvania are documented. A small group of images from West Virginia includes images of striking miners, landscapes, and views of Charleston. Also included are pictures of Horydczak's family. A series of images documents Horydczak's life in the military before 1920. Another group of images records a trip made to Canada by the Horydczaks. Included are parks, industrial facilities and activities, and views of cities and towns.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">United States--District of Columbia--Washington (D.C.)</dc:coverage>
+		<dc:coverage xml:lang="en">1920-1950</dc:coverage>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Horydczak, Theodor, ca. 1890-1971</dc:subject>
+		<dc:subject xml:lang="en">Architecture--Washington Region--1910-1960.</dc:subject>
+		<dc:subject xml:lang="en">Monuments &amp; memorials--Washington Region--1910-1960.</dc:subject>
+		<dc:subject xml:lang="en">Business enterprises--Washington Region--1910-1960.</dc:subject>
+		<dc:subject xml:lang="en">Historic buildings--Washington Region--1910-1960.</dc:subject>
+		<dc:subject xml:lang="en">City &amp; town life--Washington Region--1910-1960.</dc:subject>
+		<dc:subject xml:lang="en">Transportation facilities--Washington Region--1910-1960.</dc:subject>
+		<dc:subject xml:lang="en">World War, 1939-1945--Economic and industrial aspects--Washington Region.</dc:subject>
+		<dc:subject xml:lang="en">Religious facilities--Washington Region--1910-1960.</dc:subject>
+		<dc:subject xml:lang="en">Streets--Washington Region--1910-1920.</dc:subject>
+		<dc:subject xml:lang="en">Miners' strikes--West Virginia--1910-1960.</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/thchtml/thhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>tisc</setSpec>
+        <setName>Tissandier Collection (drawings, etchings, etc.)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for Visual Materials from the Tissandier Collection</dc:title>
+		<dc:publisher>Library of Congress</dc:publisher>
+		<dc:description>The Tissandier Collection documents the early history of aeronautics in Europe, especially balloon flight, from the late 18th to the early 20th century. Subjects range from the first baloon ascent in 1783 through late 1800s design concepts for heavier-than-air vehicles. The Tissandier brothers, Albert (1839-1906) and Gaston (1843-1899) were themselves balloonists and dirigible builders as well as aeronautical authors and illustrators. The brothers assembled ca. 375 original drawings and separately published prints, including views of historic ascents and accidents, technical designs, portraits of aeronauts, posters, broadsides, cartoons, and ephemera. Vivid coloring enlivens many of the scenes. </dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:type xml:lang="en">prints</dc:type>
+		<dc:type xml:lang="en">drawings</dc:type>
+		<dc:type xml:lang="en">photographic prints</dc:type>
+		<dc:type xml:lang="en">ephemera</dc:type>
+		<dc:type xml:lang="en">illustrations</dc:type>
+		<dc:coverage xml:lang="en">1773-1910</dc:coverage>
+		<dc:coverage xml:lang="en">France</dc:coverage>
+		<dc:coverage xml:lang="en">Europe</dc:coverage>
+		<dc:subject xml:lang="en">prints</dc:subject>
+		<dc:subject xml:lang="en">drawings</dc:subject>
+		<dc:subject xml:lang="en">Aeronautics</dc:subject>
+		<dc:subject xml:lang="en">Aircraft</dc:subject>
+		<dc:subject xml:lang="en">Balloonists</dc:subject>
+		<dc:subject xml:lang="en">Tissandier, Albert, 1839-1906</dc:subject>
+		<dc:subject xml:lang="en">Tissandier, Gaston, 1843-1899</dc:subject>
+		<dc:contributor xml:lang="en">Tissandier, Albert, 1839-1906, collector.</dc:contributor>
+		<dc:contributor xml:lang="en">Tissandier, Gaston, 1843-1899, collector.</dc:contributor>
+		<dc:contributor xml:lang="en">Library of Congress, Prints &amp; Photographs Division</dc:contributor>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>ascbrbib</setSpec>
+        <setName>United States and Brazil: Expanding Frontiers, Comparing Cultures (books)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for The United States and Brazil: Expanding Frontiers, Comparing Cultures (books only)</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Books from the Library of Congress collections digitized for The United States and Brazil: Expanding Frontiers, Comparing Cultures, a collaborative, bilingual digital library assembled by the Library of Congress and the National Library of Brazil.  To date, the focus of this collaborative project has been on the historical foundations of Brazil, including digitized items illustrating different periods: Navigation and Discovery; Colonial Period; Movement for Independence; Imperial Period; and The Republic.</dc:description>
+		<dc:description>Set characteristics for ascbrbib:  Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   dct:accrualPolicy: Partial (selection for new topical areas is by LC subject specialists in conjunction with National Library of Brazil).  Contains 7 records.  Records in set ascbrbib are also in set lcbooks.</dc:description>
+		<dc:type xml:lang="en">text</dc:type>
+		<dc:type xml:lang="en">books</dc:type>
+		<dc:type xml:lang="en">printed materials</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1470-1920</dc:coverage>
+		<dc:coverage xml:lang="en">Brazil</dc:coverage>
+		<dc:subject xml:lang="en">South America--History</dc:subject>
+		<dc:subject xml:lang="en">Brazil--Description and travel.</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress</dc:contributor>
+		<dc:rights xml:lang="en">http://international.loc.gov/cgi-bin/ammemrr.pl?title=%3ca%20href%3d%22%2fintldl%2fbrhtml%2fbrhome.html%22%3eUnited%20States%20and%20Brazil%3a%20Expanding%20Frontiers,%20Comparing%20Cultures%3c%2fa%3e&amp;coll=ascbrbib&amp;div=rbc&amp;agg=rbbr&amp;default=ammem&amp;dir=intldl</dc:rights>
+		<dc:relation xml:lang="en">http://international.loc.gov/intldl/brhtml/brhome.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>van</setSpec>
+        <setName>Van Vechten Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of photographs from the Carl Van Vechten Photographs Collection, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>The Carl Van Vechten Photographs Collection consists of 1,395 photographs taken by American photographer Carl Van Vechten (1880-1964) between 1932 and 1964.  Primarily studio portraits of people involved in the arts, including musicians, dancers, artists, literati, theatrical, film, and television actors and actresses. Includes black entertainers, particularly those associated with the Harlem Renaissance. Also includes a few athletes, statesmen and publishers, as well as portraits of Van Vechten, including one self-portrait. Most are individual portraits, but also includes some group portraits. Sitters represented in ten or more photos are: Judith Anderson, Tallulah Bankhead, Anton Dolin, Ram Gopal, Hugh Laing, Alicia Markova, and Ethel Waters.  A much smaller portion of the collection is an assortment of American landscapes. These are primarily sites and scenes in Connecticut, Illinois, Maine, Massachusetts, New Jersey, New Mexico, New York, Pennsylvania, Rhode Island, and Virginia. Primarily Massachusetts and Maine, including landscapes, seascapes, wharves, beaches, barns, dwellings, sculpture, and antique shops and yard ornaments; windmill, haying, and architectural elements in Massachusetts. Also includes New York City skylines, cityscapes, monuments, ironwork, and scene overlooking backyards with clotheslines. Portrait of a boy and one of a man in New Mexico pueblos. One image of boys sitting on street curb and one of man crouched in bar doorway. Yale University stadium; passageway with columns at University of Virginia. Barns, details and full views of sculpture and fountains in various locales.</dc:description>
+<dc:description xml:lang="en">Set characteristics for van: Source records are MARC (from LC catalog); MODS or oai_dc records are dynamically generated using generic transformation when harvested.   Mainly portraits, hence few subject or geographic terms.  Names consistent with LC Name Authority File.  Genre terms from LC Thesaurus for Graphic Materials II (gmgpc).    Dct:AccrualPolicy: Closed.  Records in set van are also in set lcphotos.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1932-1964</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">Van Vechten, Carl, 1880-1964, photographer.</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:subject xml:lang="en">Portrait photographs</dc:subject>
+		<dc:subject xml:lang="en">Landscape photographs</dc:subject>
+		<dc:subject xml:lang="en">Gelatin silver prints</dc:subject>
+		<dc:subject xml:lang="en">Entertainers</dc:subject>
+		<dc:subject xml:lang="en">Authors</dc:subject>
+		<dc:subject xml:lang="en">Celebrities</dc:subject>
+		<dc:subject xml:lang="en">African Americans</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/vvhtml/vvhome.html</dc:relation>
+		<dc:rights xml:lang="en">http://memory.loc.gov/ammem/vvhtml/vvres.html</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>brum</setSpec>
+        <setName>William C. Brumfield Collection (Photographs)</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for William C. Brumfield Photograph Collection, digitized by the Library of Congress</dc:title>
+		<dc:title xml:lang="ru">Записи для фотографий Коллекции Уильяма Брумфилда оцифрованных Библиотекой Конгресса</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description xml:lang="en">William C. Brumfield, Professor of Russian Studies at Tulane University, New Orleans, Louisiana, has extensively photographed and written about the wooden architecture of the Russian North, the jumping-off point for the explorers, traders, and missionaries who colonized Siberia. He also has photographed the distinctive architecture of such Siberian cities as Perm, Tiumen', Tobol'sk, and Tomsk. The William C. Brumfield Collection contains photographs given to the Library of Congress for inclusion in its permanent collections and in &quot;Meeting of Frontiers&quot;.  The photographs document the architecture of pre-Soviet Russia. Most of the structures are churches, cathedrals, and monasteries, often shown in multiple views. Structures are located in both large cities and small towns from west of the Ural Mountains eastward through Siberia. Interior views include icon screens (iconostases) and fresco murals. Also represented are dwellings, commercial, and log buildings along with a few views of meadows, lakes, rivers and trees.</dc:description>
+		<dc:description xml:lang="ru">Уильям Брумфилд - профессор русистики в Университете Тулейна в Новом Орлеане, штат Луизиана, активно занимался съемками и исследованием деревянной архитектуры Русского Севера, места, к которому стремились исследователи, купцы и миссионеры, заселявшие Сибирь. Он также фотографировал памятники архитектуры таких сибирских городов, как Пермь, Тюмень, Тобольск и Томск. Коллекцию Уильяма Брумфилда составляют фотографии, переданные им для включения в проект &quot;Встреча на границах&quot; и в фонд Библиотеки Конгресса.
+Избранные материалы из Коллекции Уильяма Брумфилда в настоящее время составляют 928 цветных слайдов с видами Русского Севера и Западной Сибири. </dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">slides, color</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1980-2000</dc:coverage>
+		<dc:coverage xml:lang="en">Russia (Federation)</dc:coverage>
+		<dc:subject xml:lang="en">Brumfield, William Craft, 1944- photographer, donor.</dc:subject>
+		<dc:subject xml:lang="en">Architecture--Russia (Federation)--1980-2000.</dc:subject>
+		<dc:subject xml:lang="en">Churches--Russia (Federation)--1980-2000.</dc:subject>
+		<dc:subject xml:lang="en">Monasteries--Russia (Federation)--1980-2000.</dc:subject>
+		<dc:subject xml:lang="en">Cathedrals--Russia (Federation)--1980-2000.</dc:subject>
+		<dc:subject xml:lang="en">Log buildings--Russia (Federation)--1980-2000.</dc:subject>
+		<dc:subject xml:lang="en">Architectural decorations &amp; ornaments--Russia (Federation)--1980-2000.</dc:subject>
+		<dc:subject xml:lang="en">Architectural photographs, Color--1980-2000.</dc:subject>
+		<dc:subject xml:lang="en">Slides, Color--1980-2000</dc:subject>
+		<dc:subject xml:lang="en">Photographs</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://international.loc.gov/intldl/mtfhtml/mfdigcol/mfdcphot.html#a</dc:relation>
+		<dc:rights>Mr. Brumfield's photographs are protected by copyright.  However, in providing photographs for the Library's collections Mr. Brumfield has stipulated that he is reserving his copyright for fifteen years from the date of each gift (the collection is being given in several installments). As the first installment was given in October 1999, the earliest any images from the collection would be out of copyright is October 2014. While the collection is under copyright, photographs may not be published without Mr. Brumfield's permission. Privacy and publicity rights may also apply. The photographer's address is:  Mr. William C. Brumfield, c/o Slavic Studies Department, 305 Newcomb Hall, Tulane University, New Orleans, LA 70118 (504) 865-5276</dc:rights>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>wwipos</setSpec>
+        <setName>World War I Posters</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for World War I posters, digitized by the Library of Congress</dc:title>
+		<dc:publisher>Library of Congress</dc:publisher>
+		<dc:description>About a thousand American and French posters supporting the war effort, from 1914-1920.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">Posters</dc:type>
+		<dc:coverage xml:lang="en">1914-1920</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:coverage xml:lang="en">France</dc:coverage>
+		<dc:subject xml:lang="en">Posters</dc:subject>
+		<dc:subject xml:lang="en">Soldiers</dc:subject>
+		<dc:subject xml:lang="en">Safety</dc:subject>
+		<dc:subject xml:lang="en">Military life</dc:subject>
+		<dc:subject xml:lang="en">Propaganda</dc:subject>
+		<dc:subject xml:lang="en">Tourism</dc:subject>
+		<dc:subject xml:lang="en">World War, 1914-1918</dc:subject>
+		<dc:subject xml:lang="en">United States.--Navy</dc:subject>
+		<dc:subject xml:lang="en">United States.--Army</dc:subject>
+		<dc:subject xml:lang="en">Casualties</dc:subject>
+		<dc:subject xml:lang="en">Military personnel.</dc:subject>
+		<dc:subject xml:lang="en">Recruiting</dc:subject>
+		<dc:subject xml:lang="en">War bonds &amp; funds</dc:subject>
+		<dc:subject xml:lang="en">American Red Cross</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints &amp; Photographs Division</dc:contributor>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>wpapos</setSpec>
+        <setName>WPA Posters</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for posters from the WPA, 1936-1943, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>A collection of 908 boldly colored and graphically diverse original
+posters produced from 1936 to 1943 as part of Franklin Delano Roosevelt's New Deal. Of the 2,000 WPA posters known to exist, the Library of Congress's collection is the largest. These striking silkscreen, lithograph, and woodcut posters were designed to publicize health and safety programs; cultural programs including art exhibitions, theatrical, and musical performances; travel and tourism; educational programs; and community activities in seventeen states and the District of Columbia. The posters were made possible by one of the first U.S. Government programs to support the arts and were added to the Library's holdings in the 1940s.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">Posters</dc:type>
+		<dc:coverage xml:lang="en">1936-1943</dc:coverage>
+		<dc:coverage xml:lang="en">United States</dc:coverage>
+		<dc:subject xml:lang="en">Posters</dc:subject>
+		<dc:subject xml:lang="en">Art exhibitions</dc:subject>
+		<dc:subject xml:lang="en">Education</dc:subject>
+		<dc:subject xml:lang="en">Health &amp; welfare</dc:subject>
+		<dc:subject xml:lang="en">Concerts</dc:subject>
+		<dc:subject xml:lang="en">Dance</dc:subject>
+		<dc:subject xml:lang="en">Fire fighters</dc:subject>
+		<dc:subject xml:lang="en">Health care</dc:subject>
+		<dc:subject xml:lang="en">Music</dc:subject>
+		<dc:subject xml:lang="en">Photography</dc:subject>
+		<dc:subject xml:lang="en">Occupations</dc:subject>
+		<dc:subject xml:lang="en">Safety</dc:subject>
+		<dc:subject xml:lang="en">Syphilis</dc:subject>
+		<dc:subject xml:lang="en">Theatrical productions</dc:subject>
+		<dc:subject xml:lang="en">Tourism</dc:subject>
+		<dc:subject xml:lang="en">World War, 1939-1945</dc:subject>
+		<dc:subject xml:lang="en">Zoos</dc:subject>
+		<dc:subject xml:lang="en">Museums</dc:subject>
+		<dc:contributor xml:lang="en">Library of Congress, Prints &amp; Photographs Division</dc:contributor>
+		<dc:relation xml:lang="en">http://memory.loc.gov/ammem/wpaposters/</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+     <set>
+        <setSpec>wright</setSpec>
+        <setName>Wright Brothers Negatives</setName>
+        <setDescription>
+	<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ 
+           http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+		<dc:title xml:lang="en">Records for collection of glass negatives from the Papers of Wilbur and Orville Wright, digitized by the Library of Congress</dc:title>
+		<dc:creator>Library of Congress</dc:creator>
+		<dc:description>Orville and Wilbur Wright, pioneers in early aviation, used photography to document their experiments with flight and to record family events.  Subjects depicted include portraits of the Wright brothers and their family members; friends and associates; views of the Wright family home at 7 Hawthorn St., Dayton, Ohio; Orville Wright's home "Hawthorne Hill", Dayton; family gatherings; the brothers performing gliding experiments and powered flight tests at Kitty Hawk, N.C., and at Huffman Prairie, Dayton, Ohio, (including views of the first flight at Kitty Hawk, Dec. 17, 1903). Also includes images of the Wright camp at Kitty Hawk; airplane motors; a few views of the Wright Company plant; portraits of Orville Wright's dog Scipio; some landscape views of areas around Dayton, Ohio and Kitty Hawk, N.C. Also Charles Lindbergh at Wilbur Wright Field, 1927; photographs of documents relating to a legal case against Bishop Milton Wright.</dc:description>
+		<dc:type xml:lang="en">image</dc:type>
+		<dc:type xml:lang="en">still image</dc:type>
+		<dc:type xml:lang="en">photograph</dc:type>
+		<dc:type xml:lang="en">glass negatives</dc:type>
+		<dc:type xml:lang="en">portrait photographs</dc:type>
+		<dc:type xml:lang="en">group portraits</dc:type>
+		<dc:type xml:lang="en">landscape photographs</dc:type>
+		<dc:type xml:lang="en">collection</dc:type>
+		<dc:coverage xml:lang="en">1890-1930</dc:coverage>
+		<dc:coverage xml:lang="en">United States--Ohio--Dayton</dc:coverage>
+		<dc:coverage xml:lang="en">United States--North Carolina--Kitty Hawk</dc:coverage>
+		<dc:subject xml:lang="en">Wright, Wilbur, 1867-1912, photorapher</dc:subject>
+		<dc:subject xml:lang="en">Wright, Orville, 1871-1948, photographer</dc:subject>
+		<dc:subject xml:lang="en">Wright family.</dc:subject>
+		<dc:subject xml:lang="en">Aeronautics--United States--1890-1930.</dc:subject>
+		<dc:subject xml:lang="en">Flight testing--North Carolina--Kitty Hawk--1890-1930.</dc:subject>
+		<dc:subject xml:lang="en">Flight testing--Ohio--Dayton--1890-1930.</dc:subject>
+		<dc:subject xml:lang="en">Gliders--1890-1930.</dc:subject>
+		<dc:subject xml:lang="en">Airplanes--1890-1930.</dc:subject>
+		<dc:subject xml:lang="en">Families--Ohio--Dayton--1890-1930.</dc:subject>
+		<dc:subject xml:lang="en">Wright, Wilbur, 1867-1912--Friends &amp; associates.</dc:subject>
+		<dc:subject xml:lang="en">Wright, Orville, 1871-1948--Friends &amp; associates.</dc:subject>
+		<dc:subject xml:lang="en">Pets--1890-1930.</dc:subject>
+		<dc:subject xml:lang="en">Dogs--1890-1930.</dc:subject>
+		<dc:contributor xml:lang="en">Prints and Photographs Division, Library of Congress</dc:contributor>
+		<dc:relation xml:lang="en">http://lcweb2.loc.gov/pp/wrihtml/wriabt.html</dc:relation>
+	</oai_dc:dc>
+</setDescription>
+
+     </set>
+  </ListSets>
+  </OAI-PMH> 

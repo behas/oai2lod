@@ -1,0 +1,30 @@
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#>.
+@prefix rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#>.
+
+@prefix oai: 	<http://www.mediaspaces.info/vocab/oai-pmh.rdf#> .
+
+@prefix dc:		<http://purl.org/dc/elements/1.1/> .
+@prefix onb:	<http://www.mediaspaces.info/schemes/onb#>.
+@prefix img:	<http://localhost:2020/resource/item/>.
+
+img:image1 a oai:Item;
+	onb:title "Olympic Wintergames 1960 in Squaw Valley";
+	onb:info "Bla bla bla; some info";
+	onb:authorfirstname "Ruebelt";
+	onb:authorlastname "Lothar";
+	onb:depictedPerson "Bogner, Willy";
+	.	
+
+img:image2 a oai:Item;
+	onb:title "Some image of Kardinal Innitzer";
+	onb:info "Some infor about the other image";
+	onb:authorfirstname "Ruebelt";
+	onb:authorlastname "Lothar";
+	onb:depictedPerson "Innitzer, Kardinal";
+	.
+
+img:image3 a oai:Item;
+	dc:creator "Haslhofer, Bernhard";
+	dc:description "Some description";
+	.

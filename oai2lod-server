@@ -1,0 +1,23 @@
+#!/bin/bash
+if [ ! -e "./oai2lod-server" ]
+then
+  echo "Please cd into the OAI2LOD Server directory to run the server"
+  exit 1
+fi
+OAI2LOD_ROOT=${0%/*}
+
+CP="$OAI2LOD_ROOT/build"
+SEP=':'
+if [ "$(uname)" = "Cygwin" ]; then SEP=';'; fi
+for jar in "$OAI2LOD_ROOT"/lib/*.jar "$OAI2LOD_ROOT"/lib/*/*.jar
+do
+  if [ ! -e "$jar" ]; then continue; fi
+  CP="$CP$SEP$jar"
+done
+LOGCONFIG=${LOGCONFIG:-file:$OAI2LOD_ROOT/etc/log4j.properties}
+
+CP="$CP$SEP$OAI2LOD_ROOT/etc"
+
+echo "Starting with classpath: $CP"
+
+exec java -Xms64M -Xmx128M -cp "$CP" "-Dlog4j.configuration=${LOGCONFIG}" oai2lod.server "$@"
