@@ -19,7 +19,7 @@ You need to pass the name of a configuration file to the OAI2LOD server. Example
 
 Open [http://localhost:2020](http://localhost:2020) in your browser.
 
-Shut down the OAI2LOD using CTRL-C or kill the process...
+Shut down OAI2LOD using CTRL-C or kill the process...
 
 ## Configuration Guide
 
@@ -81,9 +81,7 @@ The second part defines the OAI-PMH endpoint (<em>NOTE: v.0.2. supports only a s
 The third part defines a SPARQL endpoint this OAI2LOD instance should be linked with (<em>NOTE: v.0.2. supports only a single endpoint</em>):
 
 - the URL of the SPARQL Service: `oai2lod:sparqlService <http://DBpedia.org/sparql>;`
-	
 - the maximum number of results requested in a single SPARQL call - or actuall the LIMIT of a query: `oai2lod:maxResults 5000;`
-	
 - a reference to one or more linking rules: `oai2lod:linkingRule <lrule1>;`
 	
 Link rules tell the OAI2LOD Server the conditions for linking a resource in the OAI2LOD data set with a resource in the remote data set. For each data set one must define source/target types as well as source/target properties. The linking algorithm then compares all values X, which are objects of a certain source property in the source data set, with all values Y, which are objects of a certain target property in the target data set. If they are similar, a link using a given property is created between the resources. For each linking rule, the user can define a minimum similarity threshold (between 0 and 1) and the similarity algorithm to be used. One can choose any algorithm provided by the [SimMetrics library](http://sourceforge.net/projects/simmetrics/). Here is the [JavaDoc](http://www.dcs.shef.ac.uk/~sam/simmetrics/index.html).
