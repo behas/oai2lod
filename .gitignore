@@ -1,1 +1,6 @@
 .DS*
+bldsrc/
+lib/oai2lod-server-0.2.1.jar
+*.n3
+oai2lod-server-0.2.1.tar.gz
+oai2lod-server-0.2.1.zip
