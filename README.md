@@ -15,6 +15,7 @@ The Open Archives Initiatives Protocol for Metadata Harvesting (OAI-PMH) is a we
 You need to pass the name of a configuration file to the OAI2LOD server. Example configurations can be found in `doc/sample_config`. 
 
 	cp doc/sample_config/loc_config_dc.n3 .
+	chmod u+x oai2lod-server
 	oai2lod-server loc_config_dc.n3
 
 Open [http://localhost:2020](http://localhost:2020) in your browser.

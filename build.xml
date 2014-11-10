@@ -121,11 +121,11 @@
 	</target>
 
 	<target name="jar" depends="compile,test">-->
-	<target name="jar" depends="compile">
+	<target name="build" depends="compile">
 		<jar jarfile="${jar}" basedir="${build}" />
 	</target>
 
-	<target name="zip" depends="jar">
+	<target name="zip" depends="build">
 		<zip destfile="${zip}">
 			<zipfileset prefix="${distname}" dir=".">
 				<patternset refid="distfiles" />
@@ -133,7 +133,7 @@
 		</zip>
 	</target>
 
-	<target name="tar" depends="jar">
+	<target name="tar" depends="build">
 		<tar destfile="${tar}" compression="gzip">
 			<tarfileset prefix="${distname}" dir="." includes="${execfiles}" mode="755" />
 			<tarfileset prefix="${distname}" dir="." excludes="${execfiles}">
